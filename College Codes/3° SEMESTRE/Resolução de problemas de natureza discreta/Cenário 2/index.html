@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tabela de Pessoas</title>
+    <link rel="stylesheet" href="./css/style.css">
+
+<!--Barra de navegação no header com as bases de dados e a Home-->
+  <nav id="menu-h">
+    <ul>
+      <li><a href="#" data-json="./JSON/Base de Alunos 6.json" data-table="alunos">Dados dos Alunos</a></li>
+      <li><a href="#" data-json="./JSON/Base da Dengue 6.json" data-table="dengue">Dados da Dengue</a></li>
+      <li><a href="#" data-json="./JSON/Base dos Onibus 6.json" data-table="onibus">Dados dos ônibus</a></li>
+      <li><a href="#" data-json="./JSON/Rel1.json" data-table="Rel1">Relatório Educação</a></li>
+      <li><a href="#" data-json="./JSON/Rel2.json" data-table="Rel2">Relatório Saúde</a></li>
+      <li><a href="#" data-json="./JSON/Rel3.json" data-table="Rel3">Relatório Mobilidade</a></li>
+      <li><a href="#" data-json="./JSON/Rel4.json" data-table="Rel4">Relatório Educação e Saúde</a></li>
+  </nav>
+</head>
+
+  <body>
+    <!--Headers da Tabela e corpo-->
+    <table id="alunos-table" class="TABLE" style="display:none;" border="1">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>Nome do Pai</th>
+          <th>Nome da Mãe</th>
+          <th>Sexo</th>
+          <th>Data de Nascimento</th>
+        </tr>
+      </thead>
+      <tbody> 
+      </tbody>
+    </table>
+    
+    <table id="dengue-table" class="TABLE" style="display:none;" border="1">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>Nome do Pai</th>
+          <th>Nome da Mãe</th>
+          <th>Sexo</th>
+          <th>Data de Nascimento</th>
+          <th>Data da Dengue</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+    
+    <table id="onibus-table" class="TABLE" style="display:none;" border="1">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>Nome do Pai</th>
+          <th>Nome da Mãe</th>
+          <th>Sexo</th>
+          <th>Data de Nascimento</th>
+          <th>Ônibus</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+    
+    <table id="alunos-table" class="TABLE" style="display:none;" border="1">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>Nome do Pai</th>
+          <th>Nome da Mãe</th>
+          <th>Sexo</th>
+          <th>Data de Nascimento</th>
+        </tr>
+      </thead>
+      <tbody> 
+      </tbody>
+    </table>
+    
+    <!-- Tabela do relatório 1 -->
+    <table id="Rel1-table" class="TABLE" style="display:none;" border="1">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>Data de Nascimento</th> 
+          <th>Frequencia X Dengue</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+
+    <!-- Tabela do relatório 2 -->
+    <table id="Rel2-table" class="TABLE" style="display:none;" border="1">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>Data de Nascimento</th>
+          <th>Data da Dengue</th> 
+          <th>Posto X Ônibus</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+
+    <!-- Tabela do relatório 3 -->
+    <table id="Rel3-table" class="TABLE" style="display:none;" border="1">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>Ônibus</th> 
+          <th>Utilizaram transporte, mas não tiveram dengue</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+
+    <!-- Tabela do relatório 4 -->
+    <table id="Rel4-table" class="TABLE" style="display:none;" border="1">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>Data de Nascimento</th>
+          <th>Data da Dengue</th> 
+          <th>Frequentou a Escola e teve dengue?</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+
+    <!-- Tabela do relatório 5 -->
+    <table id="Rel5-table" class="TABLE" style="display:none;" border="1">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>Data de Nascimento</th> 
+          <th>Ônibus</th>
+          <th>Frequentaram a escola e utilizaram transporte público?</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+    
+    <script src="./js/tableGeneration.js"></script>
+    <script src="./js/relatorios.js"></script>
+
+  </body>
+</html>

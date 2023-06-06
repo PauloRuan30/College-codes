@@ -1,0 +1,2563 @@
+[
+    {
+     "ID": 271,
+     "Nome": "Ana Alves Soares",
+     "Nome do Pai": "Jose Santos Freitas",
+     "Nome da Mae": "Francisca J. Sousa",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/22\/2013",
+     "Ônibus": "012, 790, 516, 906, 373, 033, 006"
+    },
+    {
+     "ID": 35,
+     "Nome": "Aurilene Brito Bernardo",
+     "Nome do Pai": "Gideon Borges De Oliveira",
+     "Nome da Mae": "Lais Silva Maciel",
+     "Sexo": "F",
+     "Data de Nascimento": "10\/07\/1986",
+     "Ônibus": "255, 695, 748, 605, 561, 462, 639, 830, 731"
+    },
+    {
+     "ID": 36,
+     "Nome": "Breno Lima Rocha",
+     "Nome do Pai": "Claudio Lima Araujo",
+     "Nome da Mae": "Maria Pereira Barbosa",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/23\/2005",
+     "Ônibus": "848, 786, 279, 688, 445, 432, 426, 771, 989, 282"
+    },
+    {
+     "ID": 37,
+     "Nome": "Breno Santos Silva",
+     "Nome do Pai": "Jose Nascimento Nascimento",
+     "Nome da Mae": "Alcivania Souza Martins",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/21\/2016",
+     "Ônibus": "620, 354, 993, 233"
+    },
+    {
+     "ID": 38,
+     "Nome": "Bruno Silva Moreira",
+     "Nome do Pai": "Jose Barbosa",
+     "Nome da Mae": "Maria Abreu",
+     "Sexo": "M",
+     "Data de Nascimento": "04\/28\/1977",
+     "Ônibus": "317, 018, 610, 852, 316"
+    },
+    {
+     "ID": 39,
+     "Nome": "Byanca Silva Oliveira",
+     "Nome do Pai": "Francisco Souza Faustino",
+     "Nome da Mae": "Maria Socorro Oliveira",
+     "Sexo": "F",
+     "Data de Nascimento": "06\/10\/1971",
+     "Ônibus": "775, 893"
+    },
+    {
+     "ID": 40,
+     "Nome": "Carlita Sousa Silva",
+     "Nome do Pai": "Jose Araujo Rodrigues",
+     "Nome da Mae": "Maria Alves",
+     "Sexo": "F",
+     "Data de Nascimento": "01\/10\/1965",
+     "Ônibus": "696, 552, 137, 540, 242, 187, 691, 730, 700"
+    },
+    {
+     "ID": 41,
+     "Nome": "Carolina Morais Francisco",
+     "Nome do Pai": "Jose Lima Silva",
+     "Nome da Mae": "Rose C. P.",
+     "Sexo": "F",
+     "Data de Nascimento": "10\/07\/2008",
+     "Ônibus": "078, 752, 563, 651, 840"
+    },
+    {
+     "ID": 42,
+     "Nome": "Cássia Teixeira Cassimiro",
+     "Nome do Pai": "Jose Souza Sales",
+     "Nome da Mae": "Francisca Santana",
+     "Sexo": "F",
+     "Data de Nascimento": "04\/23\/1976",
+     "Ônibus": "611, 625, 150"
+    },
+    {
+     "ID": 43,
+     "Nome": "Célia Nascimento Martins",
+     "Nome do Pai": "Francisco Gomes",
+     "Nome da Mae": "Margarida Monica Silva",
+     "Sexo": "F",
+     "Data de Nascimento": "06\/03\/1980",
+     "Ônibus": "098, 847"
+    },
+    {
+     "ID": 44,
+     "Nome": "Claudir Socorro José",
+     "Nome do Pai": "Jose Costa Silva",
+     "Nome da Mae": "Fernanda Pereira Alves",
+     "Sexo": "M",
+     "Data de Nascimento": "09\/07\/1985",
+     "Ônibus": "510, 713, 877, 532, 875, 507, 248, 875"
+    },
+    {
+     "ID": 45,
+     "Nome": "Clausenir Barbosa Silva",
+     "Nome do Pai": "Rogerio Santos Costa",
+     "Nome da Mae": "Eridan Silva Domingos",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/20\/2001",
+     "Ônibus": 293
+    },
+    {
+     "ID": 46,
+     "Nome": "Cleiton Santos",
+     "Nome do Pai": "Michel Ramos Ribeiro",
+     "Nome da Mae": "Antonia L. B.",
+     "Sexo": "M",
+     "Data de Nascimento": "11\/14\/1980",
+     "Ônibus": "923, 759, 962, 871, 516, 786, 133, 329"
+    },
+    {
+     "ID": 47,
+     "Nome": "Conceição Carvalho Paulino",
+     "Nome do Pai": "Raimundo Junior Gerardo",
+     "Nome da Mae": "Neuza Silva",
+     "Sexo": "F",
+     "Data de Nascimento": "06\/06\/1966",
+     "Ônibus": "170, 298, 018, 182, 051, 114, 723, 039"
+    },
+    {
+     "ID": 48,
+     "Nome": "Crisliane Viana Alves",
+     "Nome do Pai": "Jose Sousa Dias",
+     "Nome da Mae": "Maria Braga Jose",
+     "Sexo": "F",
+     "Data de Nascimento": "01\/11\/2014",
+     "Ônibus": "604, 086, 828, 075, 931, 417, 446, 806, 147"
+    },
+    {
+     "ID": 49,
+     "Nome": "Daniel Loureiro Santana",
+     "Nome do Pai": "Luis Araujo Silva",
+     "Nome da Mae": "Afonsina Barros Alves",
+     "Sexo": "M",
+     "Data de Nascimento": "10\/06\/2017",
+     "Ônibus": "205, 650, 061, 038, 676, 197, 214"
+    },
+    {
+     "ID": 50,
+     "Nome": "Dayane Pereira Alves",
+     "Nome do Pai": "Raimundo Almeida Barbosa",
+     "Nome da Mae": "Maria Oliveira Lemos",
+     "Sexo": "F",
+     "Data de Nascimento": "05\/07\/2002",
+     "Ônibus": "620, 971, 401, 327, 059, 315, 617, 725, 534, 579"
+    },
+    {
+     "ID": 51,
+     "Nome": "Débora Silva",
+     "Nome do Pai": "Joao Oliveira",
+     "Nome da Mae": "Maria Araujo Oliveira",
+     "Sexo": "F",
+     "Data de Nascimento": "10\/25\/1986",
+     "Ônibus": "494, 434, 965, 671, 846, 665, 616"
+    },
+    {
+     "ID": 52,
+     "Nome": "Edilson Souza Rodrigues",
+     "Nome do Pai": "Pedro Santos",
+     "Nome da Mae": "Josefa Silva Conceicao",
+     "Sexo": "M",
+     "Data de Nascimento": "09\/24\/2018",
+     "Ônibus": "063, 226, 133"
+    },
+    {
+     "ID": 53,
+     "Nome": "Elineusa José Cunha",
+     "Nome do Pai": "Carlos Silva Ferreira",
+     "Nome da Mae": "Maria Souza Alves",
+     "Sexo": "F",
+     "Data de Nascimento": "08\/13\/1975",
+     "Ônibus": "041, 833, 865, 968, 296"
+    },
+    {
+     "ID": 54,
+     "Nome": "Elzevir Ribeiro",
+     "Nome do Pai": "Evandro Silva Sousa",
+     "Nome da Mae": "Maria P. V.",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/12\/1966",
+     "Ônibus": "868, 207, 537, 952, 196, 813, 518, 999"
+    },
+    {
+     "ID": 55,
+     "Nome": "Emanuela Azevedo Costa",
+     "Nome do Pai": "Jose Freitas Evangelista",
+     "Nome da Mae": "Ivaneide Oliveira Sampaio",
+     "Sexo": "F",
+     "Data de Nascimento": "05\/21\/1965",
+     "Ônibus": "619, 548, 292"
+    },
+    {
+     "ID": 56,
+     "Nome": "Estevao M. Santos",
+     "Nome do Pai": "Ricardo Chagas Santos",
+     "Nome da Mae": "Ana Carolina Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/14\/1985",
+     "Ônibus": "559, 378, 412, 501, 028"
+    },
+    {
+     "ID": 57,
+     "Nome": "Eufrasia Garcia",
+     "Nome do Pai": "Rafael Paula Rocha",
+     "Nome da Mae": "Sebastiana Nascimento Castro",
+     "Sexo": "F",
+     "Data de Nascimento": "08\/12\/2018",
+     "Ônibus": "587, 953, 555, 531, 491, 522, 404, 811"
+    },
+    {
+     "ID": 80,
+     "Nome": "Euler Silva Lima",
+     "Nome do Pai": "Luís Batista Nunes",
+     "Nome da Mae": "Maria Barbosa Santos",
+     "Sexo": "H",
+     "Data de Nascimento": "05\/16\/2007",
+     "Ônibus": "768, 162, 836, 755, 531, 722, 132, 748, 915, 139"
+    },
+    {
+     "ID": 81,
+     "Nome": "Eveline Araujo Rodrigues",
+     "Nome do Pai": "Valdia Santos",
+     "Nome da Mae": "Cirila Rodrigues Sousa",
+     "Sexo": "M",
+     "Data de Nascimento": "03\/09\/1965",
+     "Ônibus": "714, 476"
+    },
+    {
+     "ID": 58,
+     "Nome": "Eveline Pereira",
+     "Nome do Pai": "Francisco Sousa",
+     "Nome da Mae": "Maria Almeida",
+     "Sexo": "F",
+     "Data de Nascimento": "09\/14\/2014",
+     "Ônibus": "044, 214, 368, 197, 216, 272, 739, 514, 441, 880"
+    },
+    {
+     "ID": 59,
+     "Nome": "Evelyn Oliveira Nascimento",
+     "Nome do Pai": "Jose Gomes Barbosa",
+     "Nome da Mae": "Elisabete Soares",
+     "Sexo": "F",
+     "Data de Nascimento": "02\/16\/1993",
+     "Ônibus": 107
+    },
+    {
+     "ID": 60,
+     "Nome": "Expedito Andrade Conrado",
+     "Nome do Pai": "Raimundo Cardoso Silva",
+     "Nome da Mae": "Antonia Vieira Conceicao",
+     "Sexo": "M",
+     "Data de Nascimento": "06\/23\/1993",
+     "Ônibus": 4
+    },
+    {
+     "ID": 61,
+     "Nome": "Fabiana Souza Henrique",
+     "Nome do Pai": "Francisco Soares Rocha",
+     "Nome da Mae": "Ivone Sousa Barbosa",
+     "Sexo": "F",
+     "Data de Nascimento": "04\/27\/1989",
+     "Ônibus": "817, 510, 298, 894, 676, 266, 489"
+    },
+    {
+     "ID": 82,
+     "Nome": "Fabiano Santos Silva",
+     "Nome do Pai": "Francisco Santos Lima",
+     "Nome da Mae": "Raimunda Inacio Rufino",
+     "Sexo": "H",
+     "Data de Nascimento": "07\/25\/2008",
+     "Ônibus": "280, 498, 097, 683, 162, 636, 888, 491, 835"
+    },
+    {
+     "ID": 62,
+     "Nome": "Fabricio Maria Sousa",
+     "Nome do Pai": "Francisco Sousa Silva",
+     "Nome da Mae": "Katiane Vale Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/13\/2005",
+     "Ônibus": "304, 462"
+    },
+    {
+     "ID": 83,
+     "Nome": "Fabricio Mota Santos",
+     "Nome do Pai": "Francisco Ferreira Ramos",
+     "Nome da Mae": "Perla Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "04\/06\/2003",
+     "Ônibus": "892, 256, 737, 263"
+    },
+    {
+     "ID": 63,
+     "Nome": "Fabricio Pinheiro Evangelista",
+     "Nome do Pai": "Manoel Domingos Freitas",
+     "Nome da Mae": "Zenaide Santos Campos",
+     "Sexo": "M",
+     "Data de Nascimento": "06\/04\/1976",
+     "Ônibus": "655, 009"
+    },
+    {
+     "ID": 84,
+     "Nome": "Felipe Fernandes",
+     "Nome do Pai": "Lúcio De Souza",
+     "Nome da Mae": "Maria Andrade Souza",
+     "Sexo": "H",
+     "Data de Nascimento": "03\/29\/1968",
+     "Ônibus": 547
+    },
+    {
+     "ID": 64,
+     "Nome": "Fernanda Costa Firmo",
+     "Nome do Pai": "Francisco Goncalves",
+     "Nome da Mae": "Maria Silva",
+     "Sexo": "F",
+     "Data de Nascimento": "11\/11\/2011",
+     "Ônibus": "756, 161"
+    },
+    {
+     "ID": 65,
+     "Nome": "Floriza Ivone Santos",
+     "Nome do Pai": "Jose Barros",
+     "Nome da Mae": "Felly Maria Ferreira",
+     "Sexo": "F",
+     "Data de Nascimento": "09\/01\/1981",
+     "Ônibus": "398, 332, 332, 323"
+    },
+    {
+     "ID": 66,
+     "Nome": "Francielly Pinheiro Ribeiro",
+     "Nome do Pai": "Antonio Pereira Carvalho",
+     "Nome da Mae": "Maria Alves Magalhaes",
+     "Sexo": "F",
+     "Data de Nascimento": "11\/09\/2007",
+     "Ônibus": "699, 304, 359, 507, 852, 926, 181, 446, 785, 380"
+    },
+    {
+     "ID": 85,
+     "Nome": "Francisca Albuquerque Chagas",
+     "Nome do Pai": "Marcos Sousa Conrado",
+     "Nome da Mae": "Samira Pereira Oliviera",
+     "Sexo": "M",
+     "Data de Nascimento": "05\/23\/1997",
+     "Ônibus": "029, 290, 193, 216"
+    },
+    {
+     "ID": 86,
+     "Nome": "Francisca Almeida Ferreira",
+     "Nome do Pai": "Antônio Assis Rodrigues",
+     "Nome da Mae": "Maria Andrade Souza",
+     "Sexo": "M",
+     "Data de Nascimento": "01\/20\/1973",
+     "Ônibus": "765, 752, 302, 635, 366, 598, 667, 463, 853"
+    },
+    {
+     "ID": 67,
+     "Nome": "Francisca Alves Fernandes",
+     "Nome do Pai": "Rogerio Barbosa Castro",
+     "Nome da Mae": "Angela Oliveira Fatima",
+     "Sexo": "F",
+     "Data de Nascimento": "09\/04\/2017",
+     "Ônibus": "797, 166"
+    },
+    {
+     "ID": 68,
+     "Nome": "Francisca Castro Carvalho",
+     "Nome do Pai": "Cicero Martins Campos",
+     "Nome da Mae": "Luiza Pinheiro Souza",
+     "Sexo": "F",
+     "Data de Nascimento": "11\/19\/1984",
+     "Ônibus": "945, 644, 535"
+    },
+    {
+     "ID": 69,
+     "Nome": "Francisca De Paula",
+     "Nome do Pai": "Jose Marques",
+     "Nome da Mae": "Maria Martins Lacerda",
+     "Sexo": "F",
+     "Data de Nascimento": "01\/18\/1986",
+     "Ônibus": "283, 826, 897, 353, 360, 540, 990, 791, 108"
+    },
+    {
+     "ID": 70,
+     "Nome": "Francisca Ferreira",
+     "Nome do Pai": "Jose Oliveira Souza",
+     "Nome da Mae": "Diana Silva Nascimento",
+     "Sexo": "F",
+     "Data de Nascimento": "04\/17\/1968",
+     "Ônibus": "243, 052, 248, 290, 875, 192, 263, 417"
+    },
+    {
+     "ID": 71,
+     "Nome": "Francisca Franca Pereira",
+     "Nome do Pai": "Luiz Santos Silva",
+     "Nome da Mae": "Jacqueline Lopes Alves",
+     "Sexo": "F",
+     "Data de Nascimento": "04\/12\/1978",
+     "Ônibus": "148, 351, 732, 583, 360, 959, 222"
+    },
+    {
+     "ID": 87,
+     "Nome": "Francisca Franca Pereira",
+     "Nome do Pai": "José Sales Lima",
+     "Nome da Mae": "Samiq Peryjra Olivzita",
+     "Sexo": "M",
+     "Data de Nascimento": "06\/28\/1973",
+     "Ônibus": 590
+    },
+    {
+     "ID": 72,
+     "Nome": "Francisca Lima Pereira",
+     "Nome do Pai": "Francisco Severo Oliveira",
+     "Nome da Mae": "Maria Marques Carmo",
+     "Sexo": "F",
+     "Data de Nascimento": "03\/26\/2004",
+     "Ônibus": 495
+    },
+    {
+     "ID": 73,
+     "Nome": "Francisca Maria Santos",
+     "Nome do Pai": "Moacir Sousa Santos",
+     "Nome da Mae": "Maria Santos Silva",
+     "Sexo": "F",
+     "Data de Nascimento": "05\/01\/2008",
+     "Ônibus": "766, 834, 631, 923, 454, 497, 512, 556"
+    },
+    {
+     "ID": 74,
+     "Nome": "Francisca Moreira Santos",
+     "Nome do Pai": "Jose Pereira Morais",
+     "Nome da Mae": "Edna Souza Glaubia",
+     "Sexo": "F",
+     "Data de Nascimento": "03\/01\/2006",
+     "Ônibus": "794, 021, 731, 245, 745"
+    },
+    {
+     "ID": 75,
+     "Nome": "Francisca Ramos Vital",
+     "Nome do Pai": "Jose Moreira Sousa",
+     "Nome da Mae": "Elenice Rangel Dias",
+     "Sexo": "F",
+     "Data de Nascimento": "11\/29\/1968",
+     "Ônibus": "562, 143, 471, 564, 200, 896, 502, 082, 416, 286"
+    },
+    {
+     "ID": 88,
+     "Nome": "Francisca Santana Lima",
+     "Nome do Pai": "Danilo Dantas Lermie",
+     "Nome da Mae": "Antonia Ferreira Ilca",
+     "Sexo": "M",
+     "Data de Nascimento": "12\/25\/1966",
+     "Ônibus": 892
+    },
+    {
+     "ID": 89,
+     "Nome": "Francisca Santos",
+     "Nome do Pai": "José Silva Gomes",
+     "Nome da Mae": "Joseneide Santos",
+     "Sexo": "M",
+     "Data de Nascimento": "01\/03\/1982",
+     "Ônibus": "172, 541, 625, 910, 138, 134, 793, 235, 747"
+    },
+    {
+     "ID": 90,
+     "Nome": "Francisca Silva",
+     "Nome do Pai": "Jose Manoel Gomes",
+     "Nome da Mae": "Raimunda Lima Brasil",
+     "Sexo": "M",
+     "Data de Nascimento": "01\/15\/2001",
+     "Ônibus": "411, 635"
+    },
+    {
+     "ID": 91,
+     "Nome": "Francisca Silva Cardoso",
+     "Nome do Pai": "Zedalci Freire Joaquim",
+     "Nome da Mae": "Maria Fátima Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "11\/21\/2010",
+     "Ônibus": "642, 232, 657, 254, 722, 475, 747, 093, 657"
+    },
+    {
+     "ID": 92,
+     "Nome": "Francisca Silva Cavalcante",
+     "Nome do Pai": "Francisco Alves Maciel",
+     "Nome da Mae": "Gessilene Oliveira",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/13\/1991",
+     "Ônibus": "201, 554, 689, 009, 073"
+    },
+    {
+     "ID": 76,
+     "Nome": "Francisca Silva Lima",
+     "Nome do Pai": "Francisco Sousa Santos",
+     "Nome da Mae": "Maria Souza",
+     "Sexo": "F",
+     "Data de Nascimento": "04\/20\/2006",
+     "Ônibus": "972, 013"
+    },
+    {
+     "ID": 93,
+     "Nome": "Francisca Silva Paulo",
+     "Nome do Pai": "Sebastião Sousa Rodrigues",
+     "Nome da Mae": "Rozeane Hilva Venancio",
+     "Sexo": "M",
+     "Data de Nascimento": "10\/25\/1989",
+     "Ônibus": "901, 669, 278, 435, 712, 593, 871"
+    },
+    {
+     "ID": 77,
+     "Nome": "Francisco Adriano Lopes",
+     "Nome do Pai": "Julio Rodrigues Carvalho",
+     "Nome da Mae": "Maria Lima Ripardo",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/14\/2009",
+     "Ônibus": "837, 590, 608, 859, 123, 149, 739, 210, 407, 529"
+    },
+    {
+     "ID": 94,
+     "Nome": "Francisco Adriano Lopes",
+     "Nome do Pai": "Evonildo Silva Jozimar",
+     "Nome da Mae": "Elizabete Costa Rayanne",
+     "Sexo": "H",
+     "Data de Nascimento": "12\/30\/2010",
+     "Ônibus": 774
+    },
+    {
+     "ID": 95,
+     "Nome": "Francisco Carlos Silva",
+     "Nome do Pai": "Antonio Nascimento Sousa",
+     "Nome da Mae": "Maria Sousa Neci",
+     "Sexo": "H",
+     "Data de Nascimento": "02\/07\/1992",
+     "Ônibus": "302, 349, 528"
+    },
+    {
+     "ID": 78,
+     "Nome": "Francisco Carvalho Messias",
+     "Nome do Pai": "Jose Silvano Nascimento",
+     "Nome da Mae": "Maria Gomes",
+     "Sexo": "M",
+     "Data de Nascimento": "09\/05\/2009",
+     "Ônibus": "821, 905, 165, 575, 128, 677, 124"
+    },
+    {
+     "ID": 96,
+     "Nome": "Francisco Castro Lima",
+     "Nome do Pai": "Manuel Vieira Moura",
+     "Nome da Mae": "Maria Da Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "06\/02\/2002",
+     "Ônibus": "499, 743, 660, 318, 276, 176, 237, 249, 200, 826"
+    },
+    {
+     "ID": 97,
+     "Nome": "Francisco Conceicao Alves",
+     "Nome do Pai": "Antonio Santos Gonçalves",
+     "Nome da Mae": "Antonia Pereira Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "10\/03\/1990",
+     "Ônibus": "615, 573, 120, 053, 271, 968, 891"
+    },
+    {
+     "ID": 79,
+     "Nome": "Francisco Conceicao Silva",
+     "Nome do Pai": "Dionisio Nascimento Silva",
+     "Nome da Mae": "Geane Tatiana Lima",
+     "Sexo": "M",
+     "Data de Nascimento": "01\/13\/1993",
+     "Ônibus": "563, 428, 859, 585, 219, 206, 587, 450, 946"
+    },
+    {
+     "ID": 98,
+     "Nome": "Francisco Ferreira Araújo",
+     "Nome do Pai": "Jose Gomes Jorge",
+     "Nome da Mae": "Marcela Rodrigues",
+     "Sexo": "H",
+     "Data de Nascimento": "03\/02\/2010",
+     "Ônibus": "965, 404, 178, 932, 798, 850, 612"
+    },
+    {
+     "ID": 99,
+     "Nome": "Francisco Maria Feitosa",
+     "Nome do Pai": "Jose Araujo Silva",
+     "Nome da Mae": "Raimunda Santos",
+     "Sexo": "H",
+     "Data de Nascimento": "10\/17\/2005",
+     "Ônibus": "353, 717, 056, 587, 084, 782, 743, 535"
+    },
+    {
+     "ID": 100,
+     "Nome": "Francisco Medeiros Caetano",
+     "Nome do Pai": "Ramon Soares",
+     "Nome da Mae": "Mariani Silva Prado",
+     "Sexo": "M",
+     "Data de Nascimento": "08\/23\/1977",
+     "Ônibus": "487, 433, 639, 186, 643, 698, 925, 978, 107, 205"
+    },
+    {
+     "ID": 101,
+     "Nome": "Francisco Medeiros Caetano",
+     "Nome do Pai": "Adriano Moraes",
+     "Nome da Mae": "Niviane Anjos Lemos",
+     "Sexo": "H",
+     "Data de Nascimento": "03\/25\/1986",
+     "Ônibus": "848, 033, 785, 895, 009, 469"
+    },
+    {
+     "ID": 102,
+     "Nome": "Francisco Paulo",
+     "Nome do Pai": "Luis Silva Oliveira",
+     "Nome da Mae": "Sandra Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "01\/18\/1979",
+     "Ônibus": "224, 603, 115, 701, 995, 854, 222, 595, 478, 124"
+    },
+    {
+     "ID": 103,
+     "Nome": "Francisco Pereira",
+     "Nome do Pai": "Jose Araujo Paula",
+     "Nome da Mae": "Grace Santos Ferreira",
+     "Sexo": "H",
+     "Data de Nascimento": "02\/18\/1991",
+     "Ônibus": "681, 160, 303, 899, 374, 007, 708, 062, 295, 509"
+    },
+    {
+     "ID": 104,
+     "Nome": "Francisco Santos Barbosa",
+     "Nome do Pai": "Natanael Lima Morais",
+     "Nome da Mae": "Maria Gomes Ferreira",
+     "Sexo": "H",
+     "Data de Nascimento": "08\/11\/2005",
+     "Ônibus": "569, 568, 584, 987, 686, 368, 528, 877"
+    },
+    {
+     "ID": 105,
+     "Nome": "Francisco Santos Raimundo",
+     "Nome do Pai": "Manoel Rodrigues Gadelha",
+     "Nome da Mae": "Emília Mesquita Nascimento",
+     "Sexo": "H",
+     "Data de Nascimento": "02\/14\/1980",
+     "Ônibus": "969, 691, 560, 406"
+    },
+    {
+     "ID": 106,
+     "Nome": "Francisco Silva",
+     "Nome do Pai": "Wedro Silva Sousa",
+     "Nome da Mae": "Cristina Oliveira",
+     "Sexo": "H",
+     "Data de Nascimento": "07\/04\/1996",
+     "Ônibus": 802
+    },
+    {
+     "ID": 107,
+     "Nome": "Francisco Silva",
+     "Nome do Pai": "Manoel Francisco Lima",
+     "Nome da Mae": "Maria Aguiar Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "04\/27\/2000",
+     "Ônibus": "128, 094, 403, 176, 145, 517"
+    },
+    {
+     "ID": 108,
+     "Nome": "Francisco Silva Barros",
+     "Nome do Pai": "Jose Silva Nascimento",
+     "Nome da Mae": "Neuza Tavares Oliveira",
+     "Sexo": "H",
+     "Data de Nascimento": "05\/20\/1973",
+     "Ônibus": "353, 299, 669, 995, 651, 351, 005, 235"
+    },
+    {
+     "ID": 109,
+     "Nome": "Francisco Soares Cassimiro",
+     "Nome do Pai": "Antonio Roberto Silva",
+     "Nome da Mae": "Maquia Souza Marques",
+     "Sexo": "H",
+     "Data de Nascimento": "07\/11\/2014",
+     "Ônibus": "035, 739, 974, 868"
+    },
+    {
+     "ID": 110,
+     "Nome": "Francisco Tavares Silva",
+     "Nome do Pai": "Manoel Domingos Freitas",
+     "Nome da Mae": "Beliza Santos Oliveira",
+     "Sexo": "H",
+     "Data de Nascimento": "05\/21\/1965",
+     "Ônibus": "050, 620, 550, 289, 468"
+    },
+    {
+     "ID": 111,
+     "Nome": "Francisco Vasconcelos Rocha",
+     "Nome do Pai": "Raimundo Lima",
+     "Nome da Mae": "Maria Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "11\/28\/1974",
+     "Ônibus": "311, 211, 804, 879, 179, 235"
+    },
+    {
+     "ID": 112,
+     "Nome": "Gabriel Ferreira Menezes",
+     "Nome do Pai": "Jose Jose Oliveira",
+     "Nome da Mae": "Marilene Santos Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "04\/02\/1985",
+     "Ônibus": "401, 724"
+    },
+    {
+     "ID": 113,
+     "Nome": "Gabriel Monteiro Sousa",
+     "Nome do Pai": "Francisco Oliveira Caudio",
+     "Nome da Mae": "Aldelice Sousa Lucineti",
+     "Sexo": "H",
+     "Data de Nascimento": "01\/01\/2015",
+     "Ônibus": "962, 661, 062, 165, 545, 998, 468"
+    },
+    {
+     "ID": 114,
+     "Nome": "Geiciane Gracas Silva",
+     "Nome do Pai": "Bruno Silva",
+     "Nome da Mae": "Francisca Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/19\/2006",
+     "Ônibus": "369, 608, 148"
+    },
+    {
+     "ID": 115,
+     "Nome": "Germont Cassio Silva",
+     "Nome do Pai": "Moacir Ferreira Neto",
+     "Nome da Mae": "Maria Brito Pereira",
+     "Sexo": "H",
+     "Data de Nascimento": "01\/19\/1992",
+     "Ônibus": "883, 385, 315, 238, 949"
+    },
+    {
+     "ID": 116,
+     "Nome": "Gledson Machado Silva",
+     "Nome do Pai": "Francisco Ramos",
+     "Nome da Mae": "Dalismar Silva Girão",
+     "Sexo": "H",
+     "Data de Nascimento": "08\/15\/1967",
+     "Ônibus": 357
+    },
+    {
+     "ID": 117,
+     "Nome": "Gleyson Tamiarana Cavalcante",
+     "Nome do Pai": "Raimundo Matias Vasconcelos",
+     "Nome da Mae": "Catarina Almeida Cardoso",
+     "Sexo": "H",
+     "Data de Nascimento": "11\/02\/2006",
+     "Ônibus": 49
+    },
+    {
+     "ID": 118,
+     "Nome": "Guilherme Nilce Amaro",
+     "Nome do Pai": "Anderson Silva Silva",
+     "Nome da Mae": "Raimunda Alves",
+     "Sexo": "H",
+     "Data de Nascimento": "06\/22\/1989",
+     "Ônibus": "962, 746, 669, 346, 512, 693"
+    },
+    {
+     "ID": 119,
+     "Nome": "Gustavo Carmo Osvaldo",
+     "Nome do Pai": "Jonas Flavio Pereira Pinheiro",
+     "Nome da Mae": "Fahiana Da Silva Ferreira",
+     "Sexo": "H",
+     "Data de Nascimento": "09\/12\/2016",
+     "Ônibus": "037, 841, 809, 172, 673, 144"
+    },
+    {
+     "ID": 120,
+     "Nome": "Gustavo Conceicao Sousa",
+     "Nome do Pai": "Francisco Araujo Filho",
+     "Nome da Mae": "Maria De Sousa Bezerra",
+     "Sexo": "H",
+     "Data de Nascimento": "01\/14\/1988",
+     "Ônibus": "572, 458, 389, 010, 794"
+    },
+    {
+     "ID": 121,
+     "Nome": "Inácio Assunção Silva",
+     "Nome do Pai": "Claudio Feijo Melo",
+     "Nome da Mae": "Rosa Silva Edmunda",
+     "Sexo": "H",
+     "Data de Nascimento": "06\/25\/2005",
+     "Ônibus": "228, 503, 473, 378, 807, 281, 536, 361, 096, 092"
+    },
+    {
+     "ID": 122,
+     "Nome": "Ingredy Lopes Sousa",
+     "Nome do Pai": "Aristoteles Luz Johannes Holanda",
+     "Nome da Mae": "Katia E Pereira",
+     "Sexo": "M",
+     "Data de Nascimento": "01\/17\/1978",
+     "Ônibus": "367, 445, 652, 676, 818, 705"
+    },
+    {
+     "ID": 123,
+     "Nome": "Isabelle Marcal Costa",
+     "Nome do Pai": "Celson Santos",
+     "Nome da Mae": "Marilene Assis Santos",
+     "Sexo": "M",
+     "Data de Nascimento": "04\/26\/1981",
+     "Ônibus": "407, 936, 237"
+    },
+    {
+     "ID": 124,
+     "Nome": "Israel Alves Assis",
+     "Nome do Pai": "Edmilson Alves Lima",
+     "Nome da Mae": "Maria Da Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "06\/27\/1974",
+     "Ônibus": "561, 801"
+    },
+    {
+     "ID": 125,
+     "Nome": "Ítalo Curvelo Brito",
+     "Nome do Pai": "Patricio Dias Lopes",
+     "Nome da Mae": "Daniele Lima Araújo",
+     "Sexo": "H",
+     "Data de Nascimento": "02\/22\/2017",
+     "Ônibus": "187, 010, 365, 726"
+    },
+    {
+     "ID": 126,
+     "Nome": "Jailson Silva Vale",
+     "Nome do Pai": "Julio Sousa Nascimento",
+     "Nome da Mae": "Francisca Silva Reis",
+     "Sexo": "H",
+     "Data de Nascimento": "02\/04\/1968",
+     "Ônibus": "841, 400, 518, 411, 378, 187, 794, 115, 609"
+    },
+    {
+     "ID": 127,
+     "Nome": "Janice Oliveira Sales",
+     "Nome do Pai": "Francisco Freitas Sousa",
+     "Nome da Mae": "Maria Da Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "06\/03\/1988",
+     "Ônibus": "443, 153, 788, 261, 952"
+    },
+    {
+     "ID": 128,
+     "Nome": "Jaqueline Bibiano Nascimento",
+     "Nome do Pai": "Raimundo Cunha Sousa",
+     "Nome da Mae": "Sonia Nilce Borges",
+     "Sexo": "M",
+     "Data de Nascimento": "09\/26\/1966",
+     "Ônibus": "438, 687, 952, 381"
+    },
+    {
+     "ID": 129,
+     "Nome": "Jessica Freitas Franca",
+     "Nome do Pai": "Carlos Sousa Amaro",
+     "Nome da Mae": "Francisca Silva Eurenice",
+     "Sexo": "M",
+     "Data de Nascimento": "12\/16\/1978",
+     "Ônibus": "600, 350, 042, 601, 400"
+    },
+    {
+     "ID": 130,
+     "Nome": "Jéssica Reis Neto",
+     "Nome do Pai": "Joao Santos",
+     "Nome da Mae": "Maúia Oliveira",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/18\/2015",
+     "Ônibus": 905
+    },
+    {
+     "ID": 131,
+     "Nome": "Jessina Freitas Franca",
+     "Nome do Pai": "Paulo Assis Felix",
+     "Nome da Mae": "Maria Helena Santos",
+     "Sexo": "M",
+     "Data de Nascimento": "12\/26\/2005",
+     "Ônibus": "117, 427, 522, 290, 469, 292, 143, 328, 140"
+    },
+    {
+     "ID": 132,
+     "Nome": "Joana Almeida Silva",
+     "Nome do Pai": "Sebastiao Santos Albuquerque",
+     "Nome da Mae": "Francisca Soares Freire",
+     "Sexo": "M",
+     "Data de Nascimento": "11\/17\/1973",
+     "Ônibus": "750, 319, 823, 328, 493"
+    },
+    {
+     "ID": 133,
+     "Nome": "Joao Gomes Da Silva",
+     "Nome do Pai": "Raimundo Marreiro Cassimiro",
+     "Nome da Mae": "Marieta Menezes Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "06\/24\/1968",
+     "Ônibus": "172, 108, 298, 292"
+    },
+    {
+     "ID": 134,
+     "Nome": "João Lima Queiroz",
+     "Nome do Pai": "Francisco Silva Sousa",
+     "Nome da Mae": "Maria Da Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "02\/07\/2003",
+     "Ônibus": "860, 704, 501, 175, 919, 661, 793"
+    },
+    {
+     "ID": 135,
+     "Nome": "Joao Nascimento Sousa",
+     "Nome do Pai": "Raimundo Benjamin Silva",
+     "Nome da Mae": "Angela Souza Oliveira",
+     "Sexo": "H",
+     "Data de Nascimento": "03\/14\/2018",
+     "Ônibus": "985, 495, 359, 755, 206, 083"
+    },
+    {
+     "ID": 136,
+     "Nome": "Joao Pereira Santos",
+     "Nome do Pai": "Francisco Silva Araujo",
+     "Nome da Mae": "Roseane Caetano Sousa",
+     "Sexo": "H",
+     "Data de Nascimento": "04\/02\/2015",
+     "Ônibus": "587, 264, 990, 878, 347"
+    },
+    {
+     "ID": 137,
+     "Nome": "Joao Soares Monsenhor",
+     "Nome do Pai": "Francisco Alcantara Lima",
+     "Nome da Mae": "Maria Santos Rodrigues",
+     "Sexo": "H",
+     "Data de Nascimento": "08\/21\/2017",
+     "Ônibus": 516
+    },
+    {
+     "ID": 138,
+     "Nome": "Joel Santos",
+     "Nome do Pai": "Ernando Ribeiro",
+     "Nome da Mae": "Maria Rodrigues Maria",
+     "Sexo": "H",
+     "Data de Nascimento": "04\/26\/1970",
+     "Ônibus": 752
+    },
+    {
+     "ID": 139,
+     "Nome": "Jonathan Santos Ferreira",
+     "Nome do Pai": "Antonio Santos Silva",
+     "Nome da Mae": "Marig Frerrsiraanjoq",
+     "Sexo": "H",
+     "Data de Nascimento": "06\/13\/2005",
+     "Ônibus": "076, 201, 052, 579, 669, 567, 084, 975"
+    },
+    {
+     "ID": 140,
+     "Nome": "Jose Braga Fernandes",
+     "Nome do Pai": "Francisco Araujo Menezes",
+     "Nome da Mae": "Maria Lucimar Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "02\/06\/2001",
+     "Ônibus": "016, 613"
+    },
+    {
+     "ID": 141,
+     "Nome": "Jose Heleno Oliveira",
+     "Nome do Pai": "Marcos Mendonca Santos",
+     "Nome da Mae": "Maria Tamiarana Gomes",
+     "Sexo": "H",
+     "Data de Nascimento": "05\/21\/2010",
+     "Ônibus": "577, 261, 304, 932, 549, 150, 151, 232, 884"
+    },
+    {
+     "ID": 142,
+     "Nome": "Jose Lourdes Medeiros",
+     "Nome do Pai": "Jose Nobre Cavalcante",
+     "Nome da Mae": "Tereza Lima Lucia",
+     "Sexo": "H",
+     "Data de Nascimento": "07\/19\/2015",
+     "Ônibus": "697, 043, 389"
+    },
+    {
+     "ID": 143,
+     "Nome": "Jose Nascimento Pinheiro",
+     "Nome do Pai": "Francisco Joventino Almeida",
+     "Nome da Mae": "Antonia Sena Lima",
+     "Sexo": "H",
+     "Data de Nascimento": "05\/08\/1972",
+     "Ônibus": "432, 677, 620, 688, 199, 297, 105"
+    },
+    {
+     "ID": 144,
+     "Nome": "Jose Oliveira Jacauna",
+     "Nome do Pai": "Artosio Navagaltes Meneses",
+     "Nome da Mae": "Maria A. Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "04\/17\/1972",
+     "Ônibus": "557, 732, 019, 147, 960, 516, 783"
+    },
+    {
+     "ID": 145,
+     "Nome": "Jose Paiva Costa",
+     "Nome do Pai": "Claudio Jorge Oliveira",
+     "Nome da Mae": "Maria Andrade Paiva",
+     "Sexo": "H",
+     "Data de Nascimento": "08\/12\/1968",
+     "Ônibus": "123, 817, 098, 073, 755, 316"
+    },
+    {
+     "ID": 146,
+     "Nome": "Jose Santos Cavalcante",
+     "Nome do Pai": "Edson Barbosa",
+     "Nome da Mae": "Maria De Lourdes Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "12\/05\/1995",
+     "Ônibus": "127, 720, 189, 044, 498, 688, 837"
+    },
+    {
+     "ID": 147,
+     "Nome": "José Santos Queiroz",
+     "Nome do Pai": "Jose Santos",
+     "Nome da Mae": "Maria P. Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "09\/17\/2012",
+     "Ônibus": "639, 945"
+    },
+    {
+     "ID": 148,
+     "Nome": "José Silva Holanda",
+     "Nome do Pai": "Augusto Vieira Barbosa",
+     "Nome da Mae": "Francisca Santos Alex",
+     "Sexo": "H",
+     "Data de Nascimento": "04\/24\/1994",
+     "Ônibus": 282
+    },
+    {
+     "ID": 149,
+     "Nome": "Josefa Silva Rocha",
+     "Nome do Pai": "Carlos Oliveira Nilson",
+     "Nome da Mae": "Maria Lucia Paula",
+     "Sexo": "M",
+     "Data de Nascimento": "03\/15\/1984",
+     "Ônibus": "181, 671"
+    },
+    {
+     "ID": 150,
+     "Nome": "Josinete Martins Barbosa",
+     "Nome do Pai": "Antonio Pereira Brito",
+     "Nome da Mae": "Francisca Nepomuceno Quirino",
+     "Sexo": "M",
+     "Data de Nascimento": "06\/07\/1996",
+     "Ônibus": "185, 983, 494, 434, 001, 818, 906, 090"
+    },
+    {
+     "ID": 151,
+     "Nome": "Josivane Maria Alves",
+     "Nome do Pai": "Altino Cruz Roberto",
+     "Nome da Mae": "Marina Edinete Dilza",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/27\/2014",
+     "Ônibus": "331, 354, 740, 015, 792, 326, 293, 003, 142"
+    },
+    {
+     "ID": 152,
+     "Nome": "Juscelino Martins Santos",
+     "Nome do Pai": "Willis Francisco Silva",
+     "Nome da Mae": "Ana Paula Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "04\/03\/2016",
+     "Ônibus": "484, 475, 781, 826, 039"
+    },
+    {
+     "ID": 153,
+     "Nome": "Kaio Nascimento",
+     "Nome do Pai": "Antonio Elson Silva",
+     "Nome da Mae": "Regina Barros Rodrigues",
+     "Sexo": "H",
+     "Data de Nascimento": "10\/09\/1966",
+     "Ônibus": "972, 566, 233, 072, 848, 381"
+    },
+    {
+     "ID": 154,
+     "Nome": "Kaio Santos",
+     "Nome do Pai": "Carlos Ferreira Silva",
+     "Nome da Mae": "Meire Santos Barbosa",
+     "Sexo": "H",
+     "Data de Nascimento": "09\/01\/2004",
+     "Ônibus": "108, 355, 780, 549, 574, 929"
+    },
+    {
+     "ID": 155,
+     "Nome": "Kaio Santos",
+     "Nome do Pai": "Raimundo Vasconcelos",
+     "Nome da Mae": "Lidiane Jacqueline Dorilene",
+     "Sexo": "H",
+     "Data de Nascimento": "07\/10\/1969",
+     "Ônibus": "323, 007, 228, 202, 587, 198"
+    },
+    {
+     "ID": 156,
+     "Nome": "Karla Silva",
+     "Nome do Pai": "Acelino Santos Silva",
+     "Nome da Mae": "Maria Barros Mota",
+     "Sexo": "M",
+     "Data de Nascimento": "04\/29\/1986",
+     "Ônibus": "678, 278, 168, 921, 032, 402, 560"
+    },
+    {
+     "ID": 157,
+     "Nome": "Karlany Guimarães Silva",
+     "Nome do Pai": "Antonio Carlos",
+     "Nome da Mae": "Francisca Costa Pereira",
+     "Sexo": "M",
+     "Data de Nascimento": "03\/25\/1993",
+     "Ônibus": "171, 254, 105, 589, 081"
+    },
+    {
+     "ID": 158,
+     "Nome": "Kathleen Nascimento Carlos",
+     "Nome do Pai": "Manoel Bezerra Martins",
+     "Nome da Mae": "Maria Souza Guimarães",
+     "Sexo": "M",
+     "Data de Nascimento": "09\/30\/1981",
+     "Ônibus": "024, 633, 866, 622, 579, 130, 851, 774, 396, 410"
+    },
+    {
+     "ID": 159,
+     "Nome": "Kauan Santos Santana",
+     "Nome do Pai": "Joao Sousa Moraes",
+     "Nome da Mae": "Linda Silva Euma",
+     "Sexo": "H",
+     "Data de Nascimento": "10\/15\/1974",
+     "Ônibus": 750
+    },
+    {
+     "ID": 160,
+     "Nome": "Kerylane Claudia Mota",
+     "Nome do Pai": "Francisco Wilson Oliveira",
+     "Nome da Mae": "Luzia Oliveira Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "12\/05\/1977",
+     "Ônibus": "804, 220, 803, 788, 782, 331, 637, 026, 493"
+    },
+    {
+     "ID": 161,
+     "Nome": "Leila Silva",
+     "Nome do Pai": "Caio Sousa",
+     "Nome da Mae": "Maria Roseo Zulene",
+     "Sexo": "M",
+     "Data de Nascimento": "12\/23\/1965",
+     "Ônibus": "624, 915, 410, 219, 719, 189, 468"
+    },
+    {
+     "ID": 162,
+     "Nome": "Leiloana Sousa Alves",
+     "Nome do Pai": "Antonio Jose",
+     "Nome da Mae": "Ana Socorro Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/15\/2015",
+     "Ônibus": "222, 362"
+    },
+    {
+     "ID": 163,
+     "Nome": "Lene Santos Ferreira",
+     "Nome do Pai": "Aristoteles Silva Alves",
+     "Nome da Mae": "Carmelita Silva Alves",
+     "Sexo": "M",
+     "Data de Nascimento": "10\/24\/1996",
+     "Ônibus": "499, 665, 598, 014, 637, 776, 540, 981"
+    },
+    {
+     "ID": 164,
+     "Nome": "Leonardo Costa Moraes",
+     "Nome do Pai": "Pedro Silva",
+     "Nome da Mae": "Zeza Freitas Oliveira",
+     "Sexo": "H",
+     "Data de Nascimento": "09\/23\/1981",
+     "Ônibus": "828, 663"
+    },
+    {
+     "ID": 165,
+     "Nome": "Leonardo Costa Moraes",
+     "Nome do Pai": "Vicente Alves Araujo",
+     "Nome da Mae": "Maria Coelho Vasconcelos",
+     "Sexo": "H",
+     "Data de Nascimento": "11\/03\/2010",
+     "Ônibus": "892, 611, 237, 921, 031, 489"
+    },
+    {
+     "ID": 166,
+     "Nome": "Luana Paulino Matos",
+     "Nome do Pai": "Ernando Isidoro Franca",
+     "Nome da Mae": "Maria Oliveira Salete",
+     "Sexo": "M",
+     "Data de Nascimento": "03\/11\/1969",
+     "Ônibus": "442, 956, 425, 692, 538, 191"
+    },
+    {
+     "ID": 167,
+     "Nome": "Lucas Oliveira Félix",
+     "Nome do Pai": "Jose Ferreira Silva",
+     "Nome da Mae": "Maria De Fátima Santos",
+     "Sexo": "H",
+     "Data de Nascimento": "11\/23\/1994",
+     "Ônibus": "079, 780, 779, 683, 222, 533, 814, 046, 074"
+    },
+    {
+     "ID": 168,
+     "Nome": "Luciana Alves Oliveira",
+     "Nome do Pai": "Jose Bezerra Antonio",
+     "Nome da Mae": "Francisca Arruda Nascimento",
+     "Sexo": "M",
+     "Data de Nascimento": "10\/30\/1976",
+     "Ônibus": "991, 660, 701, 066, 675, 179, 204, 781, 113, 146"
+    },
+    {
+     "ID": 169,
+     "Nome": "Luciano Pereira Almeida",
+     "Nome do Pai": "Lauro Assuncao Oliveira",
+     "Nome da Mae": "Raimunda Lima Brasil",
+     "Sexo": "H",
+     "Data de Nascimento": "06\/04\/2018",
+     "Ônibus": "957, 884, 659, 011, 481, 412, 668"
+    },
+    {
+     "ID": 170,
+     "Nome": "Luis Jose Amancio",
+     "Nome do Pai": "Francisco Jose Do Nascimento",
+     "Nome da Mae": "Maria Fátima Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "02\/16\/1983",
+     "Ônibus": "940, 221, 647, 015, 574, 262"
+    },
+    {
+     "ID": 171,
+     "Nome": "Luiz Eufrasio Gomes",
+     "Nome do Pai": "Elpidio Morais Alves",
+     "Nome da Mae": "Francisca Silva Roberta Lima",
+     "Sexo": "H",
+     "Data de Nascimento": "05\/13\/1999",
+     "Ônibus": "587, 081, 583, 547, 505, 202"
+    },
+    {
+     "ID": 172,
+     "Nome": "Luiz Santos Silva",
+     "Nome do Pai": "Francisco Oliveira Felix",
+     "Nome da Mae": "Eliena Santos Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "07\/14\/1968",
+     "Ônibus": "180, 738, 820, 160, 290"
+    },
+    {
+     "ID": 173,
+     "Nome": "Luiza Alves Souza",
+     "Nome do Pai": "Sebastiao Nogueira Pereira",
+     "Nome da Mae": "Fatima Pereira Alves",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/05\/1998",
+     "Ônibus": "911, 570, 792"
+    },
+    {
+     "ID": 174,
+     "Nome": "Luzia Ferreira",
+     "Nome do Pai": "Márcio Sebastião Madeleno",
+     "Nome da Mae": "Maria Lourdes Bezerra",
+     "Sexo": "M",
+     "Data de Nascimento": "09\/27\/1974",
+     "Ônibus": "504, 791, 339, 885, 612"
+    },
+    {
+     "ID": 175,
+     "Nome": "Makia Ferreira Sousa",
+     "Nome do Pai": "José Jose Airton",
+     "Nome da Mae": "Juliana Fialho Neumann",
+     "Sexo": "M",
+     "Data de Nascimento": "04\/13\/1989",
+     "Ônibus": "007, 307, 664, 335, 858, 052, 152, 477, 580, 774"
+    },
+    {
+     "ID": 176,
+     "Nome": "Manuel Mendonça Souza",
+     "Nome do Pai": "José Santos Martins",
+     "Nome da Mae": "Patricia Pereira Souza",
+     "Sexo": "H",
+     "Data de Nascimento": "01\/23\/2004",
+     "Ônibus": "410, 912, 157, 646, 004, 787, 133, 193, 849, 085"
+    },
+    {
+     "ID": 177,
+     "Nome": "Márcia De Aguiar Coelho",
+     "Nome do Pai": "Jose Esteves Daniel",
+     "Nome da Mae": "Regina Silva Souza",
+     "Sexo": "M",
+     "Data de Nascimento": "05\/09\/1984",
+     "Ônibus": "897, 332, 756, 304, 943, 119"
+    },
+    {
+     "ID": 178,
+     "Nome": "Marcia Fernandes Alves",
+     "Nome do Pai": "Francisco Castro Barbosa",
+     "Nome da Mae": "Maria Dos Santos Gomes",
+     "Sexo": "M",
+     "Data de Nascimento": "03\/01\/1984",
+     "Ônibus": "728, 408, 622, 205, 262, 161, 515, 436, 483"
+    },
+    {
+     "ID": 179,
+     "Nome": "Márcio Santos Brito",
+     "Nome do Pai": "Alberto Laerte Da Silva",
+     "Nome da Mae": "Suzana Silva Esposo",
+     "Sexo": "H",
+     "Data de Nascimento": "10\/30\/1976",
+     "Ônibus": "515, 745, 236, 312"
+    },
+    {
+     "ID": 180,
+     "Nome": "Marcio Silva Alves",
+     "Nome do Pai": "João Vidal Leite",
+     "Nome da Mae": "Helena Araujo Sousa",
+     "Sexo": "H",
+     "Data de Nascimento": "10\/15\/1998",
+     "Ônibus": "725, 302, 820, 940, 662, 793, 995"
+    },
+    {
+     "ID": 181,
+     "Nome": "Marcos Bezerra Silvaestre",
+     "Nome do Pai": "Cícero Cândido Gomes",
+     "Nome da Mae": "Francisca Mendonça Barros",
+     "Sexo": "H",
+     "Data de Nascimento": "03\/21\/1994",
+     "Ônibus": "924, 118, 491, 262, 950"
+    },
+    {
+     "ID": 182,
+     "Nome": "Maria Amancio Sousa",
+     "Nome do Pai": "Marco Roberto Santos",
+     "Nome da Mae": "Miriam Nascimento Batista",
+     "Sexo": "M",
+     "Data de Nascimento": "01\/31\/1984",
+     "Ônibus": "486, 120, 603, 925"
+    },
+    {
+     "ID": 183,
+     "Nome": "Maria Assis Oliveira",
+     "Nome do Pai": "Emilson Pinheiro Da Silva",
+     "Nome da Mae": "Eliana Sousa Cavalcante",
+     "Sexo": "M",
+     "Data de Nascimento": "09\/01\/2018",
+     "Ônibus": "073, 311, 829, 797, 484"
+    },
+    {
+     "ID": 184,
+     "Nome": "Maria Barbosa Anastacio",
+     "Nome do Pai": "Alberto Silva Batista",
+     "Nome da Mae": "Fernanda Gomes Cristino",
+     "Sexo": "M",
+     "Data de Nascimento": "05\/21\/1968",
+     "Ônibus": 112
+    },
+    {
+     "ID": 185,
+     "Nome": "Maria Barros Silva",
+     "Nome do Pai": "Manuel Alves De Sousa",
+     "Nome da Mae": "Maria Barros Apolinária",
+     "Sexo": "M",
+     "Data de Nascimento": "10\/27\/2008",
+     "Ônibus": "065, 201, 899, 995, 008, 318, 981, 177"
+    },
+    {
+     "ID": 186,
+     "Nome": "Maria Cardoso Oliveira",
+     "Nome do Pai": "José Figueiredo Mota",
+     "Nome da Mae": "Madalena Conceição Nogueira",
+     "Sexo": "M",
+     "Data de Nascimento": "12\/19\/2015",
+     "Ônibus": "416, 461, 206, 978, 927, 785, 020"
+    },
+    {
+     "ID": 187,
+     "Nome": "Maria Cardoso Oliveira",
+     "Nome do Pai": "José Oliveira Dos Santos",
+     "Nome da Mae": "Fabiana Silva Sousa",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/25\/1996",
+     "Ônibus": "119, 990, 850, 887, 380, 347, 889"
+    },
+    {
+     "ID": 188,
+     "Nome": "Maria Coelho Silva",
+     "Nome do Pai": "José Maria Dos Santos",
+     "Nome da Mae": "Amelia Sousa Carvalho",
+     "Sexo": "M",
+     "Data de Nascimento": "05\/04\/1998",
+     "Ônibus": "046, 343, 074, 610, 266, 732, 561, 180, 236, 085"
+    },
+    {
+     "ID": 189,
+     "Nome": "Maria Coelho Silva",
+     "Nome do Pai": "João Sousa Marcolino",
+     "Nome da Mae": "Maria Dalva Waria",
+     "Sexo": "M",
+     "Data de Nascimento": "08\/14\/2009",
+     "Ônibus": "088, 486, 885, 616"
+    },
+    {
+     "ID": 190,
+     "Nome": "Maria Costa Tavares",
+     "Nome do Pai": "João Paulo De Oliveira",
+     "Nome da Mae": "Maria Dos Anjos",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/27\/1990",
+     "Ônibus": "820, 992, 969, 117, 111"
+    },
+    {
+     "ID": 191,
+     "Nome": "Maria Dos Santos Morais",
+     "Nome do Pai": "Gregorio Nascimento Santiago",
+     "Nome da Mae": "Catia Andrade Pereira",
+     "Sexo": "M",
+     "Data de Nascimento": "12\/29\/1997",
+     "Ônibus": "175, 407, 784, 063, 133, 484, 434, 574, 140, 389"
+    },
+    {
+     "ID": 192,
+     "Nome": "Maria Fátima Joaquim",
+     "Nome do Pai": "Francisco Uchoa Nascimento",
+     "Nome da Mae": "Rosileuda Barbosa Vanderli",
+     "Sexo": "M",
+     "Data de Nascimento": "09\/12\/2009",
+     "Ônibus": "148, 597, 308, 061"
+    },
+    {
+     "ID": 193,
+     "Nome": "Maria Ferreira",
+     "Nome do Pai": "Francinildo Santos Ribeiro",
+     "Nome da Mae": "Dalila Maria Chagas",
+     "Sexo": "M",
+     "Data de Nascimento": "12\/18\/1980",
+     "Ônibus": "040, 590, 457, 292"
+    },
+    {
+     "ID": 194,
+     "Nome": "Maria Martins Gomes",
+     "Nome do Pai": "Antônio Fernandes",
+     "Nome da Mae": "Rosalina Lopes Siqueira",
+     "Sexo": "M",
+     "Data de Nascimento": "05\/24\/1997",
+     "Ônibus": "567, 818, 067, 446, 136, 310, 347, 708"
+    },
+    {
+     "ID": 195,
+     "Nome": "Maria Matias Silva",
+     "Nome do Pai": "Geraldo Silva Alves",
+     "Nome da Mae": "Raquel Maria Lima",
+     "Sexo": "M",
+     "Data de Nascimento": "09\/06\/1999",
+     "Ônibus": "127, 567, 920, 944, 478, 655"
+    },
+    {
+     "ID": 196,
+     "Nome": "Maria Nascimento Silva",
+     "Nome do Pai": "Manoel Silva Feitosa",
+     "Nome da Mae": "Sonia Maria Alves",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/15\/1975",
+     "Ônibus": "256, 543, 243, 375, 113, 426, 299, 819, 735, 699"
+    },
+    {
+     "ID": 197,
+     "Nome": "Maria Oliveira Lima",
+     "Nome do Pai": "Idelfonso Martins Da Silva",
+     "Nome da Mae": "Francisca Bezerra Pereira",
+     "Sexo": "M",
+     "Data de Nascimento": "12\/21\/2017",
+     "Ônibus": "631, 348, 391, 342, 537, 863, 983, 396, 200, 691"
+    },
+    {
+     "ID": 198,
+     "Nome": "Maria Pereira Morais",
+     "Nome do Pai": "Dilmar De Souza",
+     "Nome da Mae": "Maria Martins Lacerda",
+     "Sexo": "M",
+     "Data de Nascimento": "08\/25\/1995",
+     "Ônibus": "582, 560, 867, 403, 142"
+    },
+    {
+     "ID": 199,
+     "Nome": "Maria Portela Costa",
+     "Nome do Pai": "José Lima Otacízio",
+     "Nome da Mae": "Maria Gomes Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "05\/30\/2001",
+     "Ônibus": "447, 208, 815, 727, 501"
+    },
+    {
+     "ID": 200,
+     "Nome": "Maria Rodrigues Santos",
+     "Nome do Pai": "Perival Silva Fernandes",
+     "Nome da Mae": "Cleodora Braga Lima",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/02\/1999",
+     "Ônibus": "224, 931, 102, 929, 703"
+    },
+    {
+     "ID": 201,
+     "Nome": "Maria Rosa Rodrigues",
+     "Nome do Pai": "José Adis De Almeida",
+     "Nome da Mae": "Maria Da Conceição",
+     "Sexo": "M",
+     "Data de Nascimento": "10\/30\/1997",
+     "Ônibus": "312, 328, 825, 456"
+    },
+    {
+     "ID": 202,
+     "Nome": "Maria Santos Andrade",
+     "Nome do Pai": "Marco Antonio Lima Gonçalves",
+     "Nome da Mae": "Maria Do Carmo",
+     "Sexo": "M",
+     "Data de Nascimento": "10\/01\/1986",
+     "Ônibus": "260, 733, 567, 691, 787, 901, 301, 894"
+    },
+    {
+     "ID": 203,
+     "Nome": "Maria Santos Silva",
+     "Nome do Pai": "Edmilson Pereira Da Silva",
+     "Nome da Mae": "Julia Rodrigues Jardim",
+     "Sexo": "M",
+     "Data de Nascimento": "01\/08\/1995",
+     "Ônibus": "109, 535, 183, 694, 193, 080, 049, 964"
+    },
+    {
+     "ID": 204,
+     "Nome": "Maria Silva Faustino",
+     "Nome do Pai": "Cláudio Souza",
+     "Nome da Mae": "Maria Dos Santos",
+     "Sexo": "M",
+     "Data de Nascimento": "04\/02\/1978",
+     "Ônibus": "383, 744, 370, 181, 244, 387, 691, 530, 373, 902"
+    },
+    {
+     "ID": 205,
+     "Nome": "Maria Silva Ivanildo",
+     "Nome do Pai": "Luís Sousa Correia",
+     "Nome da Mae": "Raimunda Alves Soares",
+     "Sexo": "M",
+     "Data de Nascimento": "08\/28\/2003",
+     "Ônibus": "807, 295, 737, 925, 125, 960, 059, 357, 534"
+    },
+    {
+     "ID": 206,
+     "Nome": "Maria Silva Ivanildo",
+     "Nome do Pai": "Francisco Rego Pinto",
+     "Nome da Mae": "Verônica Eugênio Nascimento",
+     "Sexo": "M",
+     "Data de Nascimento": "11\/30\/2001",
+     "Ônibus": "005, 757, 381, 627, 360, 804, 559"
+    },
+    {
+     "ID": 207,
+     "Nome": "Maria Soares Alves",
+     "Nome do Pai": "Alisson Silva Figueiredo",
+     "Nome da Mae": "Maria Dos Santos Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/04\/1981",
+     "Ônibus": 205
+    },
+    {
+     "ID": 208,
+     "Nome": "Maria Souza Oliveira",
+     "Nome do Pai": "Raimundo Assunção Costa",
+     "Nome da Mae": "Maria Portela Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "06\/17\/1980",
+     "Ônibus": "120, 752, 289, 795"
+    },
+    {
+     "ID": 209,
+     "Nome": "Maria Souza Oliveira",
+     "Nome do Pai": "Joaquim Oliveira Dos Santos",
+     "Nome da Mae": "Magnolia Carlos Rosa",
+     "Sexo": "M",
+     "Data de Nascimento": "05\/06\/1975",
+     "Ônibus": "842, 568, 668, 257"
+    },
+    {
+     "ID": 210,
+     "Nome": "Maria Teixeira Silva",
+     "Nome do Pai": "João Ferreira Lima",
+     "Nome da Mae": "Lucinete Oliveira Nascimento",
+     "Sexo": "M",
+     "Data de Nascimento": "08\/19\/1971",
+     "Ônibus": "192, 856, 722, 040, 511, 940, 605, 389, 189"
+    },
+    {
+     "ID": 211,
+     "Nome": "Maria Zuida Medeiros",
+     "Nome do Pai": "José Lopes Carlos",
+     "Nome da Mae": "Maria Venâncio Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "04\/07\/2009",
+     "Ônibus": "364, 793, 352, 987"
+    },
+    {
+     "ID": 212,
+     "Nome": "Mariana Araujo Rodrigues",
+     "Nome do Pai": "Francisco Oliveira Costa",
+     "Nome da Mae": "Francisca Paiva Alves",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/25\/1980",
+     "Ônibus": "958, 492, 961, 409, 483, 633, 643, 623"
+    },
+    {
+     "ID": 213,
+     "Nome": "Marina Arlene Silva",
+     "Nome do Pai": "Francisco De Assis Alves",
+     "Nome da Mae": "Maria Dos Santos Sousa",
+     "Sexo": "M",
+     "Data de Nascimento": "01\/14\/2007",
+     "Ônibus": "131, 403, 561, 327, 710, 169, 998, 282, 625, 597"
+    },
+    {
+     "ID": 214,
+     "Nome": "Marinalva Pereira Egito",
+     "Nome do Pai": "Jaime Matos Da Silva",
+     "Nome da Mae": "Francisca Sousa Maria",
+     "Sexo": "M",
+     "Data de Nascimento": "04\/03\/2018",
+     "Ônibus": "103, 074, 545, 220, 017"
+    },
+    {
+     "ID": 215,
+     "Nome": "Marizete Silva",
+     "Nome do Pai": "Francisco Silva Chagas",
+     "Nome da Mae": "Elisangela Albuquerque Viana",
+     "Sexo": "M",
+     "Data de Nascimento": "04\/15\/2001",
+     "Ônibus": "569, 030"
+    },
+    {
+     "ID": 216,
+     "Nome": "Matheus Jesus Teixeira",
+     "Nome do Pai": "Francisco De Assis Santos",
+     "Nome da Mae": "Eliene Bibiano Soares",
+     "Sexo": "H",
+     "Data de Nascimento": "11\/09\/2001",
+     "Ônibus": "574, 856, 547, 147, 201, 616, 037, 006, 422, 457"
+    },
+    {
+     "ID": 217,
+     "Nome": "Mayara Gomes Oliveira Calio",
+     "Nome do Pai": "Antonio Pereira Da Silva",
+     "Nome da Mae": "Maria Silva Ferreira",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/06\/2017",
+     "Ônibus": "249, 863, 598, 447"
+    },
+    {
+     "ID": 218,
+     "Nome": "Messias Araujo Ferreira",
+     "Nome do Pai": "João Araújo Cristiano",
+     "Nome da Mae": "Maria Pereira Cipriano",
+     "Sexo": "H",
+     "Data de Nascimento": "10\/09\/2008",
+     "Ônibus": 438
+    },
+    {
+     "ID": 219,
+     "Nome": "Micaele Oliveira Santos",
+     "Nome do Pai": "Isaias Marcos De Sousa",
+     "Nome da Mae": "Maria Nascimento Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "06\/12\/1984",
+     "Ônibus": "581, 563, 811, 973, 756, 744, 051, 613, 640, 147"
+    },
+    {
+     "ID": 220,
+     "Nome": "Miguel Gomes Gadelha",
+     "Nome do Pai": "José Francisco Dos Santos",
+     "Nome da Mae": "Maria Santos Moura",
+     "Sexo": "H",
+     "Data de Nascimento": "06\/16\/1983",
+     "Ônibus": "259, 204, 191, 330, 083, 692, 789, 705, 166, 159"
+    },
+    {
+     "ID": 221,
+     "Nome": "Miguel Nascimento Santos",
+     "Nome do Pai": "Anarildo Castro Ribeiro",
+     "Nome da Mae": "Elisangela Nascimento Alves",
+     "Sexo": "H",
+     "Data de Nascimento": "02\/29\/1992",
+     "Ônibus": "343, 231, 381, 225, 947, 188, 146, 122, 998, 874"
+    },
+    {
+     "ID": 222,
+     "Nome": "Mikael Oliveira Silva",
+     "Nome do Pai": "Joaquim Faustino Freitas",
+     "Nome da Mae": "Luiza Souza Lopes",
+     "Sexo": "H",
+     "Data de Nascimento": "01\/08\/2014",
+     "Ônibus": "385, 690"
+    },
+    {
+     "ID": 223,
+     "Nome": "Mirian Oliveira Kraantz",
+     "Nome do Pai": "Marcos Lopes Santos",
+     "Nome da Mae": "Francisca Freitas Alves",
+     "Sexo": "M",
+     "Data de Nascimento": "10\/19\/1988",
+     "Ônibus": "977, 831, 066, 503, 686, 699, 041, 217, 687, 682"
+    },
+    {
+     "ID": 224,
+     "Nome": "Mirilia Oliveira Karantonis",
+     "Nome do Pai": "João Silveira Teixeira",
+     "Nome da Mae": "Jacizda Sousa",
+     "Sexo": "M",
+     "Data de Nascimento": "03\/28\/1983",
+     "Ônibus": "412, 645, 548, 068, 664, 690"
+    },
+    {
+     "ID": 225,
+     "Nome": "Monica Silva",
+     "Nome do Pai": "Valdemir Aquino De Sousa",
+     "Nome da Mae": "Antonia Lopes Jose",
+     "Sexo": "M",
+     "Data de Nascimento": "12\/27\/1994",
+     "Ônibus": "168, 825"
+    },
+    {
+     "ID": 226,
+     "Nome": "Monica Silva Andrade",
+     "Nome do Pai": "Silvio Bezerra Lopes",
+     "Nome da Mae": "Caroline Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "06\/26\/1979",
+     "Ônibus": "827, 207, 798, 185, 067, 021, 236, 516"
+    },
+    {
+     "ID": 227,
+     "Nome": "Monica Silva Andrade",
+     "Nome do Pai": "Pedro Alves Teixeira",
+     "Nome da Mae": "Maria C. Sousa",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/06\/2006",
+     "Ônibus": "220, 442, 154, 975, 183, 649, 982, 442, 598, 106"
+    },
+    {
+     "ID": 228,
+     "Nome": "Murilo Oliveira Santos",
+     "Nome do Pai": "Paulo Henrique Dos Santos",
+     "Nome da Mae": "Iduina M. Mendonça",
+     "Sexo": "H",
+     "Data de Nascimento": "09\/10\/1987",
+     "Ônibus": "703, 948, 793, 853, 993, 177, 675, 595, 088"
+    },
+    {
+     "ID": 230,
+     "Nome": "Naira Barros Martins",
+     "Nome do Pai": "Marcilio Da Silva Santos",
+     "Nome da Mae": "Maria B. Sousa",
+     "Sexo": "M",
+     "Data de Nascimento": "10\/01\/2006",
+     "Ônibus": 300
+    },
+    {
+     "ID": 229,
+     "Nome": "Naira Bastos Da Silva",
+     "Nome do Pai": "Francisco Santana Gomes",
+     "Nome da Mae": "Julieta Eufrasio Lima",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/22\/1966",
+     "Ônibus": "333, 136, 112, 285, 317, 295, 348, 201, 493"
+    },
+    {
+     "ID": 231,
+     "Nome": "Natanael Monica Aguiar",
+     "Nome do Pai": "Antonio Barbosa Soares",
+     "Nome da Mae": "Gerarda Gomes Sousa",
+     "Sexo": "H",
+     "Data de Nascimento": "08\/20\/1979",
+     "Ônibus": "861, 242, 399, 509"
+    },
+    {
+     "ID": 232,
+     "Nome": "Paulo Fachineto Goncalves Aguiar",
+     "Nome do Pai": "Antonio Chaves Mesquita",
+     "Nome da Mae": "Maria L. Lima",
+     "Sexo": "H",
+     "Data de Nascimento": "03\/21\/1970",
+     "Ônibus": "831, 487, 428, 326, 196, 060, 121, 743"
+    },
+    {
+     "ID": 233,
+     "Nome": "Paulo Santos Barbosa",
+     "Nome do Pai": "Roberto Da Silva Sousa",
+     "Nome da Mae": "Maria Duarte Fernandes",
+     "Sexo": "H",
+     "Data de Nascimento": "08\/14\/1977",
+     "Ônibus": "008, 556, 741, 574, 245"
+    },
+    {
+     "ID": 234,
+     "Nome": "Pedro Aranjo Carvalho",
+     "Nome do Pai": "Josivan Rodrigues Nascimento",
+     "Nome da Mae": "Monique Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "08\/07\/1978",
+     "Ônibus": 303
+    },
+    {
+     "ID": 235,
+     "Nome": "Pedro Barros Sousa",
+     "Nome do Pai": "Carlos Silva De Sousa",
+     "Nome da Mae": "Maria S. Alves",
+     "Sexo": "H",
+     "Data de Nascimento": "08\/11\/1984",
+     "Ônibus": "037, 157"
+    },
+    {
+     "ID": 236,
+     "Nome": "Pedro Santos",
+     "Nome do Pai": "José Gonçalves Ferreira",
+     "Nome da Mae": "Cristina Oliveira",
+     "Sexo": "H",
+     "Data de Nascimento": "11\/14\/1988",
+     "Ônibus": "512, 856, 573, 647, 101, 426"
+    },
+    {
+     "ID": 237,
+     "Nome": "Raimundo Bispo Oliveira",
+     "Nome do Pai": "Antonio Maia Da Silva",
+     "Nome da Mae": "Marlene Glaucia Sousa",
+     "Sexo": "H",
+     "Data de Nascimento": "02\/04\/2005",
+     "Ônibus": "905, 367, 433, 875, 855"
+    },
+    {
+     "ID": 238,
+     "Nome": "Raimundo Costa Jozimar",
+     "Nome do Pai": "Lourival Da Silva Sousa",
+     "Nome da Mae": "Laura Alvino Ferreira",
+     "Sexo": "H",
+     "Data de Nascimento": "06\/23\/2017",
+     "Ônibus": "360, 941, 464, 491, 435, 342, 996, 500, 802, 459"
+    },
+    {
+     "ID": 0,
+     "Nome": "RAIMUNDO NONATO DOS SANTOS",
+     "Nome do Pai": "MANOEL SILVA SANTOS",
+     "Nome da Mae": "MARIA VIRGINIA DA SILVA",
+     "Sexo": "M",
+     "Data de Nascimento": "06\/25\/2014",
+     "Ônibus": "522, 238, 725"
+    },
+    {
+     "ID": 1,
+     "Nome": "RAQUEL SOCORRO DE OLIVEIRA",
+     "Nome do Pai": "JOSE ALBERTO SOUSA",
+     "Nome da Mae": "RAIMUNDA OLIVEIRA SANTOS",
+     "Sexo": "F",
+     "Data de Nascimento": "09\/19\/1970",
+     "Ônibus": "979, 755, 886, 398, 735, 564"
+    },
+    {
+     "ID": 2,
+     "Nome": "RAULINO SANTANA SILVA",
+     "Nome do Pai": "FRANCISCO PAULO MOREIRA",
+     "Nome da Mae": "RITA DA SILVA ARAUJO",
+     "Sexo": "M",
+     "Data de Nascimento": "05\/12\/2014",
+     "Ônibus": "608, 673, 967, 510, 762, 943, 837, 786, 511"
+    },
+    {
+     "ID": 3,
+     "Nome": "REGIANE SANTOS ARAUJO",
+     "Nome do Pai": "ANTONIO LIMA NASCIMENTO",
+     "Nome da Mae": "MARIA NASCIMENTO OLIVEIRA",
+     "Sexo": "F",
+     "Data de Nascimento": "01\/18\/1986",
+     "Ônibus": "156, 282, 409, 797, 274, 609, 862, 718, 965"
+    },
+    {
+     "ID": 239,
+     "Nome": "Regiane Silva",
+     "Nome do Pai": "Francisco Coelho Felipe",
+     "Nome da Mae": "Maria Santos Batista",
+     "Sexo": "M",
+     "Data de Nascimento": "03\/10\/1988",
+     "Ônibus": "481, 767, 762, 060, 798, 356"
+    },
+    {
+     "ID": 4,
+     "Nome": "REGINALDO ANTONIO SANTOS",
+     "Nome do Pai": "IVANILSON INACIO JUNIOR",
+     "Nome da Mae": "MARIA SILVEIRA BORGES",
+     "Sexo": "M",
+     "Data de Nascimento": "01\/26\/1990",
+     "Ônibus": "837, 600, 867, 510, 096, 631, 412, 568, 453, 446"
+    },
+    {
+     "ID": 240,
+     "Nome": "Regislane Sousa",
+     "Nome do Pai": "Edilson Garcia Raimundo",
+     "Nome da Mae": "Adriana Ripardo Nascimento",
+     "Sexo": "M",
+     "Data de Nascimento": "03\/15\/2018",
+     "Ônibus": "447, 596, 724, 031, 424, 994, 678"
+    },
+    {
+     "ID": 241,
+     "Nome": "Renan Santos Ferreira",
+     "Nome do Pai": "Agostinho Branco Rego",
+     "Nome da Mae": "Francisca Socorro Cavalcante",
+     "Sexo": "H",
+     "Data de Nascimento": "05\/07\/2003",
+     "Ônibus": "028, 478, 458"
+    },
+    {
+     "ID": 242,
+     "Nome": "Ricardo Luciano Almeida",
+     "Nome do Pai": "Reginaldo Bisi Silva",
+     "Nome da Mae": "Francisca Nunes Silva",
+     "Sexo": "H",
+     "Data de Nascimento": "06\/13\/2009",
+     "Ônibus": "916, 996, 483, 974, 448, 910, 052"
+    },
+    {
+     "ID": 243,
+     "Nome": "Richele Estevo Pinto",
+     "Nome do Pai": "Ivaldo Costa Sousa",
+     "Nome da Mae": "Odilia Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "09\/12\/1974",
+     "Ônibus": "211, 709, 687, 510, 287, 711, 424, 461, 989"
+    },
+    {
+     "ID": 5,
+     "Nome": "RITA PEREIRA SILVESTRE",
+     "Nome do Pai": "SIDCLEI ALVES LIRA",
+     "Nome da Mae": "TAMIRES FERREIRA REIS",
+     "Sexo": "F",
+     "Data de Nascimento": "02\/13\/2017",
+     "Ônibus": "937, 363, 070, 533, 578, 316"
+    },
+    {
+     "ID": 244,
+     "Nome": "Robson Inácio Silva",
+     "Nome do Pai": "Jose Albuquerque Baldino",
+     "Nome da Mae": "Maria Maciel Ferreira",
+     "Sexo": "H",
+     "Data de Nascimento": "10\/24\/1966",
+     "Ônibus": "059, 938, 190, 362, 118, 945, 187, 193"
+    },
+    {
+     "ID": 245,
+     "Nome": "Roldemir Maciel Sousa",
+     "Nome do Pai": "Lauro Matos Barbosa",
+     "Nome da Mae": "Rosa Amancio Primo",
+     "Sexo": "H",
+     "Data de Nascimento": "11\/10\/1996",
+     "Ônibus": "457, 864, 783, 266"
+    },
+    {
+     "ID": 6,
+     "Nome": "ROMARIO DA SILVA CAVALCANTE",
+     "Nome do Pai": "PEDRO COSTA SOUSA",
+     "Nome da Mae": "KELLY MARIA FERREIRA",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/15\/2009",
+     "Ônibus": "844, 851"
+    },
+    {
+     "ID": 246,
+     "Nome": "Romildo Santos Lima",
+     "Nome do Pai": "Jose Ferreira Sousa",
+     "Nome da Mae": "Antonia Maria Costa",
+     "Sexo": "H",
+     "Data de Nascimento": "06\/17\/2018",
+     "Ônibus": 432
+    },
+    {
+     "ID": 7,
+     "Nome": "ROMULO FERREIRA SANTOS",
+     "Nome do Pai": "JOSE FERREIRA SOUZA",
+     "Nome da Mae": "MADALENA FERREIRA SILVA",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/15\/1985",
+     "Ônibus": "315, 825, 731, 918, 185, 333, 008"
+    },
+    {
+     "ID": 247,
+     "Nome": "Rosalia Silva",
+     "Nome do Pai": "Francisco Vale Sousa",
+     "Nome da Mae": "Maria Souza Santos",
+     "Sexo": "M",
+     "Data de Nascimento": "05\/28\/2005",
+     "Ônibus": "209, 093, 745, 615, 315, 145, 914, 312, 247, 624"
+    },
+    {
+     "ID": 8,
+     "Nome": "ROSANGELA MACEDO CRUZ",
+     "Nome do Pai": "JOAO PEDRO SILVEIRA",
+     "Nome da Mae": "MARCIA ALVES REGINA",
+     "Sexo": "F",
+     "Data de Nascimento": "11\/29\/1994",
+     "Ônibus": "802, 573, 718, 715, 990, 156"
+    },
+    {
+     "ID": 248,
+     "Nome": "Rosângela Silva Cláudio",
+     "Nome do Pai": "Manoel Ferreira Ribeiro",
+     "Nome da Mae": "Francisca Araujo Santos",
+     "Sexo": "M",
+     "Data de Nascimento": "01\/22\/2013",
+     "Ônibus": "950, 948, 287, 826, 710, 105, 106, 894"
+    },
+    {
+     "ID": 249,
+     "Nome": "Roseane Macedo Cruz",
+     "Nome do Pai": "Antonio Costa Rodrigues",
+     "Nome da Mae": "Maria Monica Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "03\/17\/1998",
+     "Ônibus": "470, 322, 816, 239, 077"
+    },
+    {
+     "ID": 250,
+     "Nome": "Rosemary Silva",
+     "Nome do Pai": "Edson Lima Andrade",
+     "Nome da Mae": "Antonia Elcir Souza",
+     "Sexo": "M",
+     "Data de Nascimento": "03\/23\/2010",
+     "Ônibus": "585, 491, 760, 195, 556, 818, 933"
+    },
+    {
+     "ID": 9,
+     "Nome": "ROSEMEIRE SILVEIRA DO CARMO",
+     "Nome do Pai": "LUCIANO TEIXEIRA SILVA",
+     "Nome da Mae": "EMANUELE NASCIMENTO SILVA",
+     "Sexo": "F",
+     "Data de Nascimento": "12\/09\/1990",
+     "Ônibus": "696, 584, 657, 400, 387, 136, 708, 663"
+    },
+    {
+     "ID": 251,
+     "Nome": "Rosemeire Sousa Costa",
+     "Nome do Pai": "Antonio Gomes Freitas",
+     "Nome da Mae": "Francisca Jose Souza",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/22\/1993",
+     "Ônibus": "950, 410, 459, 884, 659"
+    },
+    {
+     "ID": 252,
+     "Nome": "Rosilene Barros Pereira",
+     "Nome do Pai": "Francisco Freitas Damasceno",
+     "Nome da Mae": "Maria Monteiro Vasconcelos",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/02\/2011",
+     "Ônibus": "411, 517, 614, 709, 623, 319"
+    },
+    {
+     "ID": 253,
+     "Nome": "Roziane Lima Lopes",
+     "Nome do Pai": "Paulo Lopes Santos",
+     "Nome da Mae": "Maria Solange Regina",
+     "Sexo": "M",
+     "Data de Nascimento": "11\/20\/1997",
+     "Ônibus": "293, 605, 629, 184, 888, 536, 357, 914, 415, 321"
+    },
+    {
+     "ID": 254,
+     "Nome": "Rubens Jose Eduardo",
+     "Nome do Pai": "Edmundo Nogueira Souza",
+     "Nome da Mae": "Lucia Duarte Mendes",
+     "Sexo": "H",
+     "Data de Nascimento": "03\/22\/1988",
+     "Ônibus": 861
+    },
+    {
+     "ID": 255,
+     "Nome": "Samira Araujo Nunes",
+     "Nome do Pai": "Francisco Ribeiro Silva",
+     "Nome da Mae": "Ivanilde Pereira Santos",
+     "Sexo": "M",
+     "Data de Nascimento": "06\/22\/2006",
+     "Ônibus": "707, 173, 282"
+    },
+    {
+     "ID": 10,
+     "Nome": "SANDRA NOGUEIRA COSTA",
+     "Nome do Pai": "RENATO AUGUSTO DA SILVA",
+     "Nome da Mae": "MARIA ARAUJO SOUSA",
+     "Sexo": "F",
+     "Data de Nascimento": "08\/11\/2006",
+     "Ônibus": "311, 230"
+    },
+    {
+     "ID": 256,
+     "Nome": "Sandra Pereira Gomes",
+     "Nome do Pai": "Francisco Rodrigues",
+     "Nome da Mae": "Maria S. Queiroz",
+     "Sexo": "M",
+     "Data de Nascimento": "11\/29\/2014",
+     "Ônibus": "909, 974, 345, 167, 750, 811"
+    },
+    {
+     "ID": 11,
+     "Nome": "SANDRA SANTOS FARIAS",
+     "Nome do Pai": "RENATO LIMA NETO",
+     "Nome da Mae": "MARIA ZENEIDE SILVA",
+     "Sexo": "F",
+     "Data de Nascimento": "08\/11\/1975",
+     "Ônibus": "524, 061, 603, 808, 787, 483, 898, 582"
+    },
+    {
+     "ID": 12,
+     "Nome": "SANDRA SOUSA FREITAS",
+     "Nome do Pai": "MANOEL PEREIRA GOMES",
+     "Nome da Mae": "MARIA ELIZABETE FERREIRA",
+     "Sexo": "F",
+     "Data de Nascimento": "07\/16\/2011",
+     "Ônibus": "171, 302"
+    },
+    {
+     "ID": 13,
+     "Nome": "SARA LIMA NOBRE",
+     "Nome do Pai": "ALIPIO SANTOS ARAUJO",
+     "Nome da Mae": "MARIA SOUSA SILVA",
+     "Sexo": "F",
+     "Data de Nascimento": "10\/07\/1983",
+     "Ônibus": "396, 220, 524, 012, 964, 048, 316"
+    },
+    {
+     "ID": 14,
+     "Nome": "SARAH RANGEL LIMA",
+     "Nome do Pai": "FRANCISCO SOUSA SILVA",
+     "Nome da Mae": "FRANCISCA RANGEL DIAS",
+     "Sexo": "F",
+     "Data de Nascimento": "06\/22\/1980",
+     "Ônibus": "512, 410, 649"
+    },
+    {
+     "ID": 15,
+     "Nome": "SAULO RODRIGUES DE OLIVEIRA",
+     "Nome do Pai": "ISMAEL FREITAS AUGUSTO",
+     "Nome da Mae": "MARIA PEREIRA SANTOS",
+     "Sexo": "M",
+     "Data de Nascimento": "01\/30\/1999",
+     "Ônibus": "300, 616, 500, 199"
+    },
+    {
+     "ID": 16,
+     "Nome": "SEBASTIAO SOUZA SANTOS",
+     "Nome do Pai": "MARCOS CLAUDIO CAVALCANTE",
+     "Nome da Mae": "TATIANA CAVALCANTE LAYNE",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/05\/2002",
+     "Ônibus": 794
+    },
+    {
+     "ID": 257,
+     "Nome": "Sergio Marreiro Soares",
+     "Nome do Pai": "Vicente Monteiro Monsenhor",
+     "Nome da Mae": "Antonia Machado Lindalva",
+     "Sexo": "H",
+     "Data de Nascimento": "08\/09\/1999",
+     "Ônibus": 174
+    },
+    {
+     "ID": 258,
+     "Nome": "Sergio Pereira Araujo",
+     "Nome do Pai": "Adail Nogueira Silva",
+     "Nome da Mae": "Warley Oliveira Dias",
+     "Sexo": "H",
+     "Data de Nascimento": "01\/01\/1992",
+     "Ônibus": "360, 018, 331, 382, 818"
+    },
+    {
+     "ID": 259,
+     "Nome": "Silene Pereira Soares",
+     "Nome do Pai": "Jose Sena Olegario",
+     "Nome da Mae": "Maria J. Souza",
+     "Sexo": "M",
+     "Data de Nascimento": "12\/24\/1991",
+     "Ônibus": "095, 164, 819, 040, 028, 466"
+    },
+    {
+     "ID": 260,
+     "Nome": "Silvia Santos Sousa",
+     "Nome do Pai": "Epclides Silva Ednardo",
+     "Nome da Mae": "Hilda Prima Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "01\/28\/2007",
+     "Ônibus": "086, 718, 712, 052, 438, 493, 135"
+    },
+    {
+     "ID": 261,
+     "Nome": "Simone Mendes Gomes",
+     "Nome do Pai": "Luzanira Silva",
+     "Nome da Mae": "Maria S. Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/09\/1979",
+     "Ônibus": 29
+    },
+    {
+     "ID": 262,
+     "Nome": "Sônia Sousa Nascimento",
+     "Nome do Pai": "Jose Leite Sousa",
+     "Nome da Mae": "Maria Crispim Barbosa",
+     "Sexo": "M",
+     "Data de Nascimento": "08\/15\/1986",
+     "Ônibus": "047, 467, 272, 242, 318, 302"
+    },
+    {
+     "ID": 17,
+     "Nome": "STEFANE COSTA SILVA",
+     "Nome do Pai": "LUIS LOPES ALMEIDA",
+     "Nome da Mae": "FRANCILENE VIEIRA BELARMINO",
+     "Sexo": "F",
+     "Data de Nascimento": "07\/29\/1966",
+     "Ônibus": 746
+    },
+    {
+     "ID": 263,
+     "Nome": "Steffany Rodrigues Silva",
+     "Nome do Pai": "Ermes Moura Isidro",
+     "Nome da Mae": "Maria Souza",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/23\/1996",
+     "Ônibus": 199
+    },
+    {
+     "ID": 264,
+     "Nome": "Stênio Mesquita Sampaio",
+     "Nome do Pai": "Jorge Oliveira",
+     "Nome da Mae": "Maria Madalena",
+     "Sexo": "H",
+     "Data de Nascimento": "04\/25\/1993",
+     "Ônibus": "889, 576, 614, 528, 824"
+    },
+    {
+     "ID": 18,
+     "Nome": "SUELEN ALVES BARBOSA",
+     "Nome do Pai": "HAMILTON QUEIROZ AUGUSTO",
+     "Nome da Mae": "EVA DOS SANTOS OLIVEIRA",
+     "Sexo": "F",
+     "Data de Nascimento": "08\/18\/2010",
+     "Ônibus": "416, 253, 663, 748, 271, 351, 782"
+    },
+    {
+     "ID": 265,
+     "Nome": "Talita Ferreira Carlos",
+     "Nome do Pai": "Francisco Eliardo Costa",
+     "Nome da Mae": "Antonia F. Barbosa",
+     "Sexo": "M",
+     "Data de Nascimento": "10\/11\/1973",
+     "Ônibus": "927, 592, 932, 220, 024, 634, 832, 559"
+    },
+    {
+     "ID": 19,
+     "Nome": "TERCIO GOMES DA SILVA",
+     "Nome do Pai": "FRANCISCO NETO ANGELO",
+     "Nome da Mae": "JUDITE SANTOS COSTA",
+     "Sexo": "M",
+     "Data de Nascimento": "03\/27\/2013",
+     "Ônibus": "286, 780, 825"
+    },
+    {
+     "ID": 266,
+     "Nome": "Tercio Pinheiro Assis",
+     "Nome do Pai": "Jose Silva Lopes",
+     "Nome da Mae": "Valdiza Ferreira",
+     "Sexo": "H",
+     "Data de Nascimento": "05\/01\/1980",
+     "Ônibus": "929, 167, 225"
+    },
+    {
+     "ID": 20,
+     "Nome": "TEREZA FERREIRA LIMA",
+     "Nome do Pai": "LIDIO SILVA SOUSA",
+     "Nome da Mae": "JOANA DE CASTRO SANTOS",
+     "Sexo": "F",
+     "Data de Nascimento": "05\/02\/1989",
+     "Ônibus": "590, 951, 734, 358, 902, 728, 555, 822"
+    },
+    {
+     "ID": 267,
+     "Nome": "Thamyres Solange Souza",
+     "Nome do Pai": "Joao Santos Domingos",
+     "Nome da Mae": "Ana Silva Teixeira",
+     "Sexo": "M",
+     "Data de Nascimento": "04\/24\/1973",
+     "Ônibus": "204, 916, 284, 758, 077, 972"
+    },
+    {
+     "ID": 268,
+     "Nome": "Thayane Silva Araujo",
+     "Nome do Pai": "Francisco Sousa Santos",
+     "Nome da Mae": "Marcionila Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "11\/05\/2016",
+     "Ônibus": "335, 717, 616, 203, 948, 684, 958"
+    },
+    {
+     "ID": 269,
+     "Nome": "Thaynara Lessa Araújo",
+     "Nome do Pai": "Luis Mota Araujo",
+     "Nome da Mae": "Nayana Araujo Almeida Cartaxo",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/11\/1984",
+     "Ônibus": "022, 673, 783, 739"
+    },
+    {
+     "ID": 21,
+     "Nome": "THIAGO RANGEL SILVA",
+     "Nome do Pai": "JACINTO MONTEIRO VIANA",
+     "Nome da Mae": "JOSEFINA FERREIRA DOS SANTOS",
+     "Sexo": "M",
+     "Data de Nascimento": "03\/12\/1978",
+     "Ônibus": "489, 256"
+    },
+    {
+     "ID": 270,
+     "Nome": "Tiago Alves Silva",
+     "Nome do Pai": "Paulo Cesar Rodrigues",
+     "Nome da Mae": "Rosa Barbosa Dantas",
+     "Sexo": "H",
+     "Data de Nascimento": "02\/05\/1969",
+     "Ônibus": "565, 701, 304, 703, 363, 485, 643, 628, 265"
+    },
+    {
+     "ID": 22,
+     "Nome": "TIAGO SILVA DE OLIVEIRA",
+     "Nome do Pai": "JOSE ANTONIO ARAUJO",
+     "Nome da Mae": "VANIA OLIVEIRA COSTA",
+     "Sexo": "F",
+     "Data de Nascimento": "04\/24\/1975",
+     "Ônibus": "474, 145, 444, 666, 024, 900, 518, 872"
+    },
+    {
+     "ID": 272,
+     "Nome": "Valbisa Silva Felix",
+     "Nome do Pai": "Manoel Silva Gomes",
+     "Nome da Mae": "Maria Arlene Filomeno",
+     "Sexo": "M",
+     "Data de Nascimento": "06\/28\/2001",
+     "Ônibus": 921
+    },
+    {
+     "ID": 23,
+     "Nome": "VALDECIR OLIVEIRA OLEGARIO",
+     "Nome do Pai": "ANTONIO RODRIGUES LIMA",
+     "Nome da Mae": "VALDIANA SIQUEIRA RIBEIRO",
+     "Sexo": "M",
+     "Data de Nascimento": "10\/09\/1985",
+     "Ônibus": "370, 868, 146, 052"
+    },
+    {
+     "ID": 273,
+     "Nome": "Valdecir Oliveira Olegario",
+     "Nome do Pai": "Francisco Ricardo Gonzaga",
+     "Nome da Mae": "Maria Nascimento Libuina",
+     "Sexo": "H",
+     "Data de Nascimento": "10\/31\/1986",
+     "Ônibus": 237
+    },
+    {
+     "ID": 274,
+     "Nome": "Valdelar Sousa Pereira",
+     "Nome do Pai": "Antonio Duarte Silva",
+     "Nome da Mae": "Maria Ferreira Celestino",
+     "Sexo": "H",
+     "Data de Nascimento": "11\/24\/1997",
+     "Ônibus": "143, 359, 018, 828, 045, 571, 314, 145"
+    },
+    {
+     "ID": 24,
+     "Nome": "VALDEMAR ALMEIDA LEITAO",
+     "Nome do Pai": "JOAO ALVES OLIVEIRA",
+     "Nome da Mae": "MARIA LEITAO PEREIRA",
+     "Sexo": "M",
+     "Data de Nascimento": "06\/07\/1987",
+     "Ônibus": "255, 693, 588, 645, 891, 910, 626, 519, 705"
+    },
+    {
+     "ID": 25,
+     "Nome": "VALDENIA CASTRO DA SILVA",
+     "Nome do Pai": "ABDIAS ALMEIDA PEREIRA",
+     "Nome da Mae": "FRANCISCA DA SILVA ALVES",
+     "Sexo": "F",
+     "Data de Nascimento": "07\/02\/2001",
+     "Ônibus": "404, 781, 577, 346, 037, 204, 908, 868, 856"
+    },
+    {
+     "ID": 26,
+     "Nome": "VALDIANE SILVESTRE CRUZ",
+     "Nome do Pai": "ANTONIO RICARDO PEREIRA",
+     "Nome da Mae": "ELIANA ODETE CORDEIRO",
+     "Sexo": "F",
+     "Data de Nascimento": "11\/05\/2009",
+     "Ônibus": "563, 293"
+    },
+    {
+     "ID": 275,
+     "Nome": "Valdivia Teixeira Alves",
+     "Nome do Pai": "Manoel Gonzaga Carlos",
+     "Nome da Mae": "Maria Almeida Lima",
+     "Sexo": "H",
+     "Data de Nascimento": "12\/04\/1989",
+     "Ônibus": "931, 761, 554, 612, 820, 456, 886"
+    },
+    {
+     "ID": 276,
+     "Nome": "Valrenice Pereira",
+     "Nome do Pai": "Jose Carlos Ferreira",
+     "Nome da Mae": "Alice Helena Silva",
+     "Sexo": "M",
+     "Data de Nascimento": "05\/25\/1987",
+     "Ônibus": "666, 054, 959, 306, 738, 138, 017, 471, 660"
+    },
+    {
+     "ID": 27,
+     "Nome": "VANDERLEY RODRIGUES SILVA",
+     "Nome do Pai": "CRISTIANO CARMO VALDO",
+     "Nome da Mae": "ELAINE PEREIRA DE CASTRO",
+     "Sexo": "M",
+     "Data de Nascimento": "02\/29\/1992",
+     "Ônibus": "071, 553, 722, 672, 834, 445, 673, 595, 449, 735"
+    },
+    {
+     "ID": 28,
+     "Nome": "VANESSA NASCIMENTO SILVA",
+     "Nome do Pai": "ELON NASCIMENTO ZACARIAS",
+     "Nome da Mae": "MARIA FERREIRA SILVA",
+     "Sexo": "F",
+     "Data de Nascimento": "05\/04\/1973",
+     "Ônibus": 924
+    },
+    {
+     "ID": 29,
+     "Nome": "VANESSA OLIVEIRA CASTRO",
+     "Nome do Pai": "ELINEUDO MAURICIO FILHO",
+     "Nome da Mae": "ANDRESSA BORGES MONTEIRO",
+     "Sexo": "F",
+     "Data de Nascimento": "01\/04\/2017",
+     "Ônibus": 298
+    },
+    {
+     "ID": 277,
+     "Nome": "Vanessa Queiroz Ramos Almeida",
+     "Nome do Pai": "Nairton Lopes Ferreira",
+     "Nome da Mae": "Rosa Maria",
+     "Sexo": "M",
+     "Data de Nascimento": "11\/30\/1996",
+     "Ônibus": "081, 553, 450"
+    },
+    {
+     "ID": 278,
+     "Nome": "Vanessa Santos Silva",
+     "Nome do Pai": "Jose Jesus Oliveira",
+     "Nome da Mae": "Milena Freitas Valente",
+     "Sexo": "M",
+     "Data de Nascimento": "09\/02\/2011",
+     "Ônibus": "506, 293, 260, 913, 114, 585, 567, 089, 997, 824"
+    },
+    {
+     "ID": 279,
+     "Nome": "Venicius Pereira Santos",
+     "Nome do Pai": "Francisco Batista",
+     "Nome da Mae": "Joene Silva Barbosa",
+     "Sexo": "H",
+     "Data de Nascimento": "06\/03\/2007",
+     "Ônibus": "379, 973, 902, 763"
+    },
+    {
+     "ID": 280,
+     "Nome": "Vera Queiroz Ramos Almeida",
+     "Nome do Pai": "Jose Paula Sena",
+     "Nome da Mae": "Marlene Alves Matos",
+     "Sexo": "M",
+     "Data de Nascimento": "07\/21\/1986",
+     "Ônibus": "896, 852, 329, 312, 797, 445"
+    },
+    {
+     "ID": 281,
+     "Nome": "Victor Silva",
+     "Nome do Pai": "Goncalo Nildemar Souza",
+     "Nome da Mae": "Mira Santos",
+     "Sexo": "H",
+     "Data de Nascimento": "12\/01\/1985",
+     "Ônibus": "086, 897, 598, 444, 433, 067, 024, 822, 028"
+    },
+    {
+     "ID": 30,
+     "Nome": "VITOR SILVA NASCIMENTO",
+     "Nome do Pai": "FRANCISO VIEIRA FORTUNATO",
+     "Nome da Mae": "MARGARIDA PEREIRA DOMINGOS",
+     "Sexo": "M",
+     "Data de Nascimento": "05\/08\/1983",
+     "Ônibus": 1
+    },
+    {
+     "ID": 31,
+     "Nome": "VITORIA ARAUJO SILVA",
+     "Nome do Pai": "VITOR GABRIEL COSTA",
+     "Nome da Mae": "SOFIA SILVEIRA CASTRO",
+     "Sexo": "F",
+     "Data de Nascimento": "07\/15\/2005",
+     "Ônibus": "956, 363, 157, 443, 167, 368"
+    },
+    {
+     "ID": 32,
+     "Nome": "VITORIA BELAMINO ABREU",
+     "Nome do Pai": "ARYLSON PAIVA CRUZ",
+     "Nome da Mae": "FRANCISCA MACEDO CASTRO",
+     "Sexo": "F",
+     "Data de Nascimento": "03\/07\/1966",
+     "Ônibus": "395, 625, 552, 549, 334, 047, 777, 962, 818"
+    },
+    {
+     "ID": 33,
+     "Nome": "VITORIA LIMA IRISMAR",
+     "Nome do Pai": "JOSE GABRIEL MONTEIRO",
+     "Nome da Mae": "TAMIRES OLIVEIRA COSTA",
+     "Sexo": "F",
+     "Data de Nascimento": "08\/07\/1970",
+     "Ônibus": "061, 781, 790, 914, 326, 308, 250, 999"
+    },
+    {
+     "ID": 282,
+     "Nome": "Vitória Silva Neto",
+     "Nome do Pai": "Valberto Santos",
+     "Nome da Mae": "Tereza Dávila Queiroz",
+     "Sexo": "M",
+     "Data de Nascimento": "04\/24\/2017",
+     "Ônibus": "688, 953, 197"
+    },
+    {
+     "ID": 34,
+     "Nome": "YASMIN MARIA ANDRADE",
+     "Nome do Pai": "FRANCISCO SILVA MOURA",
+     "Nome da Mae": "MARIA OLIVEIRA BELAMINO",
+     "Sexo": "F",
+     "Data de Nascimento": "07\/10\/1998",
+     "Ônibus": "880, 732, 476, 356, 350"
+    },
+    {
+     "ID": 283,
+     "Nome": "Zilvana Ávila Gouveia",
+     "Nome do Pai": "Francisco Sousa Mota",
+     "Nome da Mae": "Rachel De Queiroz",
+     "Sexo": "M",
+     "Data de Nascimento": "01\/16\/1970",
+     "Ônibus": "181, 747, 653, 760"
+    },
+    null,
+    null,
+    {
+     "Nome da Mae": " "
+    }
+   ]

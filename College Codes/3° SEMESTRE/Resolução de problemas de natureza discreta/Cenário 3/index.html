@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sistema de Estacionamento</title>
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+  <h1>Sistema de Estacionamento</h1>
+  
+  <div class="form">
+    <label for="placa-input">Placa do veículo:</label>
+    <input type="text" id="placa-input" placeholder="AAA1A11">
+    <button onclick="adicionarVeiculo()">Adicionar</button>
+  </div>
+  
+  <h2>Matriz de Veículos</h2>
+  <table id="matriz">
+    <tr>
+      <th>Posição</th>
+      <th>Placa</th>
+      <th>Tempo (minutos)</th>
+      <th>Valor a Pagar</th>
+      <th>Remover</th>
+    </tr>
+  </table>
+  
+  <div class="form">
+    <label for="tempo-input">Tempo de estacionamento (minutos):</label>
+    <input type="number" id="tempo-input" min="0">
+    <label for="placa-saida-input">Placa do veículo:</label>
+    <input type="text" id="placa-saida-input" placeholder="AAA1A11">
+    <button onclick="adicionarTempoEstacionamento()">Adicionar Tempo</button>
+  </div>
+  
+  <div id="registro-saida"></div>
+  
+  <script src="js/script.js"></script>
+</body>
+</html>

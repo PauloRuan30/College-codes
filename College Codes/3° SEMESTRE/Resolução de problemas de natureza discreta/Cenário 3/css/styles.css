@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f8f8ff;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  h2 {
+    margin-top: 30px;
+    color: #666;
+  }
+  
+  .form {
+    margin-bottom: 20px;
+  }
+  
+  .table-container {
+    overflow-x: auto;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  th {
+    text-align: left;
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px 16px;
+    font-size: 14px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  input[type="text"],
+  input[type="number"] {
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  #registro-saida {
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #666;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .container::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
+  
