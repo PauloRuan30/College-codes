@@ -1,0 +1,12 @@
++--------------------------------------------------+
+|                  HashComparator                  |
++--------------------------------------------------+
+| -fileHashGenerator: FileHashGenerator            |
++--------------------------------------------------+
+| +HashComparator(): void                          |
+| +setFile(newFilePath: String): void              |
+| +getHash(): String                               |
+| +getPath(): String                               |
+| +isHashEqual(anotherFilePath: String): boolean   |
+| +main(args: String[]): void                      |
++--------------------------------------------------+
